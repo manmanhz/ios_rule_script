@@ -1,15 +1,15 @@
 name: AllInOne
-desc: 最后更新时间 2024-10-05 02:16:00
+desc: 最后更新时间 2024-10-18 02:15:46
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
 # domain: 5
 # http-request-script: 1
 # http-response-script: 25
 # redirect: 8
-# reject: 693
-# mitm: 727
+# reject: 694
+# mitm: 729
 # force-http-engine-hosts: 6
-# total: 1465
+# total: 1468
 
 
 
@@ -719,6 +719,7 @@ http:
     - ^https?:\/\/yxyapi\d\.drcuiyutao\.com\/yxy-api-gateway\/api\/json\/advert\/ - reject
     - ^https?:\/\/zconfig\.alibabausercontent\.com\/zconfig - reject
     - ^https?:\/\/zjh5api\.189smarthome\.com:\d+\/xygj-config-api\/queryData - reject
+    - ^https?:\/\/zjh5api\.ott4china\.com:8091\/cp-api\/view\/config\/pos - reject
     - ^https?:\/\/zjmbank\.js96008\.com:8090\/gw\/advert\/oprAdvertQry - reject
     - ^https?:\/\/zlsdk\.1rtb\.net\/sdk\/req_ad\? - reject
     - ^https?:\/\/zone\.guiderank-app\.com\/guiderank-web\/app\/ad\/listLaunchADByCity\.do - reject
@@ -1008,7 +1009,6 @@ http:
     - "apapia-sqk.manmanbuy.com"
     - "api*.futunn.com"
     - "api*.musical.ly"
-    - "api-access.pangolin-sdk-toutiao.com"
     - "api-ad-product.huxiu.com"
     - "api-fouth-mem.huazhu.com"
     - "api-marketing.zhinengxiyifang.cn"
@@ -1398,6 +1398,7 @@ http:
     - "msspjh.emarbox.com"
     - "mxsa.mxbc.net"
     - "mystore-gw.watsonsvip.com.cn"
+    - "napi.ithome.com"
     - "new-app-api.ylyk.com"
     - "new.vip.weibo.cn"
     - "newapp2.szsmk.com"
@@ -1542,6 +1543,7 @@ http:
     - "weixin110.qq.com"
     - "wmapi.meituan.com"
     - "wp3.lobdol.cn"
+    - "www.123pan.com"
     - "www.51devapp.com"
     - "www.abbyychina.com"
     - "www.ahzs10000.com"
@@ -1642,6 +1644,7 @@ http:
     - "zconfig.alibabausercontent.com"
     - "zhuanlan.zhihu.com"
     - "zjh5api.189smarthome.com"
+    - "zjh5api.ott4china.com"
     - "zjmbank.js96008.com"
     - "zlsdk.1rtb.net"
     - "zone.guiderank-app.com"
