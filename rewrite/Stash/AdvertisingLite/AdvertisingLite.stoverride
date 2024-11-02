@@ -1,11 +1,11 @@
 name: 复写去广告(严格版)
-desc: 最后更新时间 2024-10-26 02:17:14
+desc: 最后更新时间 2024-10-31 02:16:20
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
-# reject: 1169
-# mitm: 861
+# reject: 1172
+# mitm: 862
 # force-http-engine-hosts: 6
-# total: 2036
+# total: 2040
 
 
 
@@ -405,6 +405,7 @@ http:
     - ^https?:\/\/appconf\.mail\.163\.com\/mmad\/ - reject
     - ^https?:\/\/appdmkj\.5idream\.net\/appPic\/homepage - reject
     - ^https?:\/\/appdmkj\.5idream\.net\/v2\/login\/message\/tip - reject
+    - ^https?:\/\/appdmkj\.5idream\.net\/v3\/user\/advertising\/list - reject
     - ^https?:\/\/appgw\.ddpai\.com.*\/ad\/list.* - reject
     - ^https?:\/\/apphw\.ddpai\.com:\d+\/onroad\/api\/v\d\/\w+\/list - reject
     - ^https?:\/\/apps\.api\.ke\.com\/config\/config\/(bootpage|getactivityconfig) - reject
@@ -775,6 +776,7 @@ http:
     - ^https?:\/\/magev6\.if\.qidian\.com\/argus\/api\/v1\/bookshelf\/getTopOperation - reject
     - ^https?:\/\/magev6\.if\.qidian\.com\/argus\/api\/v1\/followsubscribe - reject
     - ^https?:\/\/maicai\.api\.ddxq\.mobi\/advert\/ - reject
+    - ^https?:\/\/maicai\.api\.ddxq\.mobi\/advert\/startUpScreen - reject
     - ^https?:\/\/maicai\.api\.ddxq\.mobi\/homeApi\/getHomeAdPop - reject
     - ^https?:\/\/mall\.meituan\.com\/api\/c\/homepage\/bubble\/operate\/info - reject
     - ^https?:\/\/mall\.meituan\.com\/api\/c\/homepage\/splash - reject
@@ -980,6 +982,7 @@ http:
     - ^https?:\/\/shopapi\.io\.mi\.com\/mtop\/mf\/resource\/homePage\/pageConfig - reject
     - ^https?:\/\/shopic\.sf-express\.com\/crm\/mobile\/common\/flashscreen - reject
     - ^https?:\/\/sichuan\.95504\.net\/v\d\/gd\/index\/get - reject
+    - ^https?:\/\/siteapi\.zaixs\.com\/.*\/start_ad - reject
     - ^https?:\/\/smart\.789\.image\.mucang\.cn\/advert - reject
     - ^https?:\/\/smkmp\.96225\.com\/smkcenter\/ad/ - reject
     - ^https?:\/\/smsrebuild1\.mail\.10086\.cn\/together\/s - reject
@@ -1906,6 +1909,7 @@ http:
     - "shopapi.io.mi.com"
     - "shopic.sf-express.com"
     - "sichuan.95504.net"
+    - "siteapi.zaixs.com"
     - "slapi.oray.net"
     - "smarket.dian.so"
     - "smart.789.image.mucang.cn"
