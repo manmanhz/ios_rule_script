@@ -1,12 +1,12 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-11-30 02:13:51
-# DOMAIN: 149
+# UPDATED: 2024-12-07 02:14:09
+# DOMAIN: 155
 # DOMAIN-KEYWORD: 4
 # DOMAIN-SUFFIX: 123
 # IP-CIDR: 3
-# TOTAL: 279
+# TOTAL: 285
 DOMAIN,0123456789nonexistent.com
 DOMAIN,0d.kebhana.mx
 DOMAIN,1337.abcvg.info
@@ -31,7 +31,7 @@ DOMAIN,exodus.desync.com
 DOMAIN,explodie.org
 DOMAIN,finbytes.org
 DOMAIN,fleira.no
-DOMAIN,ftp.pet
+DOMAIN,highteahop.top
 DOMAIN,home.yxgz.club
 DOMAIN,ipv4.rer.lol
 DOMAIN,ismaarino.com
@@ -48,9 +48,9 @@ DOMAIN,open.demonii.com
 DOMAIN,open.dstud.io
 DOMAIN,open.free-tracker.ga
 DOMAIN,open.stealth.si
-DOMAIN,open.tracker.cl
 DOMAIN,open.tracker.ink
 DOMAIN,open.trackerlist.xyz
+DOMAIN,opentor.org
 DOMAIN,opentracker.io
 DOMAIN,p2p.publictracker.xyz
 DOMAIN,p4p.arenabg.com
@@ -61,7 +61,6 @@ DOMAIN,retracker.lanta.me
 DOMAIN,retracker.spark-rostov.ru
 DOMAIN,retracker.x2k.ru
 DOMAIN,retracker01-msk-virt.corbina.net
-DOMAIN,saltwood.top
 DOMAIN,seeders-paradise.org
 DOMAIN,seedpeer.net
 DOMAIN,serpb.vpsburti.com
@@ -75,6 +74,7 @@ DOMAIN,t.overflow.biz
 DOMAIN,taciturn-shadow.spb.ru
 DOMAIN,tk.greedland.net
 DOMAIN,torrentsmd.com
+DOMAIN,tr.abir.ga
 DOMAIN,tr.burnabyhighstar.com
 DOMAIN,tr.kxmp.cf
 DOMAIN,tr.nyacat.pw
@@ -87,6 +87,7 @@ DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker-zhuqiy.dgj055.icu
 DOMAIN,tracker.0x7c0.com
 DOMAIN,tracker.beeimg.com
+DOMAIN,tracker.birkenwald.de
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.bjut.jp
 DOMAIN,tracker.breizh.pm
@@ -94,12 +95,13 @@ DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.bt4g.com
 DOMAIN,tracker.bz
 DOMAIN,tracker.cloudit.top
+DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.cyberia.is
-DOMAIN,tracker.darkness.services
 DOMAIN,tracker.deadorbit.nl
 DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.dmcomic.org
+DOMAIN,tracker.dump.cl
 DOMAIN,tracker.edkj.club
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.fnix.net
@@ -114,8 +116,10 @@ DOMAIN,tracker.kuroy.me
 DOMAIN,tracker.leechshield.link
 DOMAIN,tracker.lilithraws.org
 DOMAIN,tracker.lintk.me
+DOMAIN,tracker.moeking.me
 DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
+DOMAIN,tracker.netmap.top
 DOMAIN,tracker.ololosh.space
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.openwebtorrent.com
@@ -127,7 +131,6 @@ DOMAIN,tracker.skynetcloud.site
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.tamersunion.org
-DOMAIN,tracker.theoks.net
 DOMAIN,tracker.tiny-vps.com
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.torrust-demo.com
@@ -138,6 +141,7 @@ DOMAIN,tracker.vraphim.com
 DOMAIN,tracker.waaa.moe
 DOMAIN,tracker.xiaoduola.xyz
 DOMAIN,tracker.yemekyedim.com
+DOMAIN,tracker.yume-hatsuyuki.moe
 DOMAIN,tracker1.520.jp
 DOMAIN,tracker1.bt.moack.co.kr
 DOMAIN,tracker1.itzmx.com
@@ -147,6 +151,7 @@ DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
 DOMAIN,tracker810.xyz
+DOMAIN,trackers.mlsub.net
 DOMAIN,ttk2.nbaonlineservice.com
 DOMAIN,u4.trakx.crim.ist
 DOMAIN,u6.trakx.crim.ist
@@ -155,6 +160,7 @@ DOMAIN,www.all4nothin.net
 DOMAIN,www.genesis-sp.org
 DOMAIN,www.torrent.eu.org
 DOMAIN,www.torrentsnipe.info
+DOMAIN,www.wareztorrent.com
 DOMAIN,z.mercax.com
 DOMAIN-SUFFIX,1ptba.com
 DOMAIN-SUFFIX,2xfree.org
