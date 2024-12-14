@@ -1,12 +1,12 @@
 # NAME: PrivateTracker
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-12-07 02:14:09
-# DOMAIN: 155
+# UPDATED: 2024-12-14 02:14:16
+# DOMAIN: 146
 # DOMAIN-KEYWORD: 4
 # DOMAIN-SUFFIX: 123
 # IP-CIDR: 3
-# TOTAL: 285
+# TOTAL: 276
 payload:
   - DOMAIN,0123456789nonexistent.com
   - DOMAIN,0d.kebhana.mx
@@ -21,11 +21,9 @@ payload:
   - DOMAIN,bt.rer.lol
   - DOMAIN,bt1.xxxxbt.cc
   - DOMAIN,buny.uk
-  - DOMAIN,bvarf.tracker.sh
   - DOMAIN,ch3oh.ru
   - DOMAIN,concen.org
   - DOMAIN,d40969.acod.regrucolo.ru
-  - DOMAIN,discord.heihachi.pw
   - DOMAIN,ec2-18-191-163-220.us-east-2.compute.amazonaws.com
   - DOMAIN,evan.im
   - DOMAIN,exodus.desync.com
@@ -35,9 +33,10 @@ payload:
   - DOMAIN,highteahop.top
   - DOMAIN,home.yxgz.club
   - DOMAIN,ipv4.rer.lol
+  - DOMAIN,ipv4announce.sktorrent.eu
+  - DOMAIN,isk.richardsw.club
   - DOMAIN,ismaarino.com
   - DOMAIN,jutone.com
-  - DOMAIN,kiryuu-test.mywaifu.best
   - DOMAIN,martin-gebhardt.eu
   - DOMAIN,mathkangaroo.jp
   - DOMAIN,ns-1.x-fins.com
@@ -47,7 +46,6 @@ payload:
   - DOMAIN,open.acgtracker.com
   - DOMAIN,open.demonii.com
   - DOMAIN,open.dstud.io
-  - DOMAIN,open.free-tracker.ga
   - DOMAIN,open.stealth.si
   - DOMAIN,open.tracker.ink
   - DOMAIN,open.trackerlist.xyz
@@ -56,12 +54,12 @@ payload:
   - DOMAIN,p2p.publictracker.xyz
   - DOMAIN,p4p.arenabg.com
   - DOMAIN,public.tracker.vraphim.com
-  - DOMAIN,pybittrack.retiolus.net
   - DOMAIN,retracker.hotplug.ru
   - DOMAIN,retracker.lanta.me
   - DOMAIN,retracker.spark-rostov.ru
   - DOMAIN,retracker.x2k.ru
   - DOMAIN,retracker01-msk-virt.corbina.net
+  - DOMAIN,rt.tace.ru
   - DOMAIN,seeders-paradise.org
   - DOMAIN,seedpeer.net
   - DOMAIN,serpb.vpsburti.com
@@ -75,13 +73,11 @@ payload:
   - DOMAIN,taciturn-shadow.spb.ru
   - DOMAIN,tk.greedland.net
   - DOMAIN,torrentsmd.com
-  - DOMAIN,tr.abir.ga
   - DOMAIN,tr.burnabyhighstar.com
   - DOMAIN,tr.kxmp.cf
   - DOMAIN,tr.nyacat.pw
   - DOMAIN,tr.zukizuki.org
   - DOMAIN,tr1.aag.moe
-  - DOMAIN,tr2.trkb.ru
   - DOMAIN,tr4ck3r.duckdns.org
   - DOMAIN,trackarr.org
   - DOMAIN,tracker-udp.gbitt.info
@@ -102,7 +98,6 @@ payload:
   - DOMAIN,tracker.dler.com
   - DOMAIN,tracker.dler.org
   - DOMAIN,tracker.dmcomic.org
-  - DOMAIN,tracker.dump.cl
   - DOMAIN,tracker.edkj.club
   - DOMAIN,tracker.filemail.com
   - DOMAIN,tracker.fnix.net
@@ -111,7 +106,6 @@ payload:
   - DOMAIN,tracker.gmi.gd
   - DOMAIN,tracker.ipfsscan.io
   - DOMAIN,tracker.ipv6tracker.org
-  - DOMAIN,tracker.itscraftsoftware.my.id
   - DOMAIN,tracker.kmzs123.tk
   - DOMAIN,tracker.kuroy.me
   - DOMAIN,tracker.leechshield.link
@@ -120,8 +114,6 @@ payload:
   - DOMAIN,tracker.moeking.me
   - DOMAIN,tracker.moxing.party
   - DOMAIN,tracker.mywaifu.best
-  - DOMAIN,tracker.netmap.top
-  - DOMAIN,tracker.ololosh.space
   - DOMAIN,tracker.opentrackr.org
   - DOMAIN,tracker.openwebtorrent.com
   - DOMAIN,tracker.pmman.tech
@@ -131,13 +123,12 @@ payload:
   - DOMAIN,tracker.skynetcloud.site
   - DOMAIN,tracker.skyts.net
   - DOMAIN,tracker.srv00.com
-  - DOMAIN,tracker.tamersunion.org
+  - DOMAIN,tracker.theoks.net
   - DOMAIN,tracker.tiny-vps.com
   - DOMAIN,tracker.torrent.eu.org
   - DOMAIN,tracker.torrust-demo.com
   - DOMAIN,tracker.tryhackx.org
   - DOMAIN,tracker.vanitycore.co
-  - DOMAIN,tracker.vds.nz
   - DOMAIN,tracker.vraphim.com
   - DOMAIN,tracker.waaa.moe
   - DOMAIN,tracker.xiaoduola.xyz

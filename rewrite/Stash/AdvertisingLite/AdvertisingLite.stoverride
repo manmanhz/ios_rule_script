@@ -1,11 +1,11 @@
 name: 复写去广告(严格版)
-desc: 最后更新时间 2024-12-01 02:16:04
+desc: 最后更新时间 2024-12-14 02:17:22
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
-# reject: 1184
-# mitm: 873
+# reject: 1187
+# mitm: 876
 # force-http-engine-hosts: 6
-# total: 2063
+# total: 2069
 
 
 
@@ -89,6 +89,7 @@ http:
     - ^https:\/\/mobileapi\.xiamenair\.com\/mobile-starter - reject
     - ^https:\/\/mobilehotelapi\.elong\.com\/appHotel\/adx\/advert\/getAdvert - reject
     - ^https:\/\/mxsa\.mxbc\.net\/api\/v1\/adinfo\/limitedAds$ - reject
+    - ^https:\/\/ntt-app\.benewtech\.cn\/v6\/user\/\d+\/messages\/event - reject
     - ^https:\/\/order-app-api\.lbdj\.com\/lbdj\/apporder\/ad\/ - reject
     - ^https:\/\/p0\.pipi\.cn\/adAdmin\/\w+\.(jpg|png)\?imageMogr2\/thumbnail\/(860x0|!165x165|!1049x1169) - reject
     - ^https:\/\/p0\.pipi\.cn\/adAdmin\/\w+\.jpg\?imageMogr2\/quality\/ - reject
@@ -106,6 +107,7 @@ http:
     - ^https:\/\/vip7\.fzwdyy\.cn:8083\/api\/(getAdvertInfo|getGOOGAdvert) - reject
     - ^https:\/\/web2\.realtech-inc\.com\/oss\/xc-app-assets\/configs\/common\/theme\.json - reject
     - ^https:\/\/webcast-open\.douyin\.com\/webcast\/openapi\/feed\/\? - reject
+    - ^https:\/\/www\.xiaoxiongmeishu\.com\/api\/(home\/v1\/config\/appInit|s\/v1\/popup\/createCouponPopup) - reject
     - ^https:\/\/www\.ymm56\.com\/short-distance-match-app\/openAppAd - reject
     - ^https:\/\/wx\.17u\.cn\/crapi\/query\/ad - reject
     - ^https:\/\/wxs-weixin\.sd\.zhumanggroup\.com\/api\/v2\/ad - reject
@@ -346,6 +348,7 @@ http:
     - ^https?:\/\/api\.yizhibo\.com\/common\/api\/(api_)?pz$ - reject
     - ^https?:\/\/api\.yonghuivip\.com\/web\/shensuan\/ad\/getAd - reject
     - ^https?:\/\/api\.ys7\.com.*\/getAdvertising - reject
+    - ^https?:\/\/api\.zcool\.com\.cn\/.*common\/open-screen - reject
     - ^https?:\/\/api\.zhuishushenqi\.com\/notification\/shelfMessage - reject
     - ^https?:\/\/api\.zhuishushenqi\.com\/splashes\/ios - reject
     - ^https?:\/\/api\.zhuishushenqi\.com\/user\/bookshelf-updated - reject
@@ -1126,7 +1129,6 @@ http:
     - ^https?:\/\/www\.xiaohongshu\.com\/api\/sns\/(v\d\/ads\/resource|v2\/hey\/\w+\/hey_gallery) - reject
     - ^https?:\/\/www\.xiaohongshu\.com\/api\/sns\/v\d\/ads\/ - reject
     - ^https?:\/\/www\.xiaohongshu\.com\/api\/sns\/v\d\/system_service\/splash_config - reject
-    - ^https?:\/\/www\.xiaoxiongmeishu\.com\/api\/home\/v1\/config\/appInit\?uid=588888763519696896 - reject
     - ^https?:\/\/www\.xqpark\.cn\/xqParkApp\/resource\/getResource - reject
     - ^https?:\/\/www\.zjyilin\.com\/hykweb\/\/index\/openImg - reject
     - ^https?:\/\/www\.zybang\.com\/adx\/ - reject
@@ -1163,6 +1165,7 @@ http:
     - ^https?:\/\/ztoread\.ziroom\.com\/ymerApi\/v\d\/index\/open - reject
     - ^https?:\/\/zua\.zhidiantianxia\.cn\/api\/adverts - reject
     - http:\/\/ad\.myfriday\.cn\/d\/json\/1\.1 - reject
+    - http:\/\/dili.sqcosmos.com\/jiekou\/endpage\/ad - reject
     - https://api-global.soulapp.me/app/open/get - reject
     - https://api.rr.tv/storage/business/rootName/app/homePage\?dataType=JSON - reject
     - https://ci.xiaohongshu.com/system_config/watermark - reject
@@ -1377,6 +1380,7 @@ http:
     - "api.yizhibo.com"
     - "api.yonghuivip.com"
     - "api.ys7.com"
+    - "api.zcool.com.cn"
     - "api.zhuishushenqi.com"
     - "api1.34580.com"
     - "api2.helper.qq.com"
@@ -1543,6 +1547,7 @@ http:
     - "dict.youdao.com"
     - "dictvip-business.youdao.com"
     - "dili.bdatu.com"
+    - "dili.sqcosmos.com"
     - "dinamicx.alibabausercontent.com"
     - "direct.z-bank.com"
     - "discuz.gtimg.cn"
@@ -1817,6 +1822,7 @@ http:
     - "nnapp.cloudbae.cn"
     - "notch.qdaily.com"
     - "notify.baicizhan.com"
+    - "ntt-app.benewtech.cn"
     - "obs.line-scdn.net"
     - "ocean.shuqireader.com"
     - "ocrifs.ejoy.sinopec.com"
