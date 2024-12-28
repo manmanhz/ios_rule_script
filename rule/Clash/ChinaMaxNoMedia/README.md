@@ -12,19 +12,19 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2024-12-21 02:15:12
+最后更新时间：2024-12-28 02:14:50
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 421  | 
 | DOMAIN-KEYWORD | 11  | 
-| DOMAIN-SUFFIX | 97217  | 
+| DOMAIN-SUFFIX | 96568  | 
 | IP-ASN | 1  | 
-| IP-CIDR | 8361  | 
-| IP-CIDR6 | 11887  | 
+| IP-CIDR | 8356  | 
+| IP-CIDR6 | 11883  | 
 | PROCESS-NAME | 14  | 
-| TOTAL | 117912  | 
+| TOTAL | 117254  | 
 
 
 ## Clash 
