@@ -1,5 +1,5 @@
 name: 复写去广告(严格版)
-desc: 最后更新时间 2025-01-02 02:16:28
+desc: 最后更新时间 2025-01-10 02:17:11
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
 # reject: 1186
@@ -237,7 +237,6 @@ http:
     - ^https?:\/\/api\.17kjs\.com\/meta\/ads_targets - reject
     - ^https?:\/\/api\.21ec74\.com\/v2\.5\/ad - reject
     - ^https?:\/\/api\.21jingji\.com\/ad\/ - reject
-    - ^https?:\/\/api\.369cx\.cn\/v\d\/Splash\/GetSplashAd - reject
     - ^https?:\/\/api\.51credit\.com\/app\/popup\/appPopup - reject
     - ^https?:\/\/api\.51credit\.com\/bbs\/app\/api\/v\d\/topic\/chat - reject
     - ^https?:\/\/api\.51credit\.com\/ks\/a\/list\? - reject
@@ -879,6 +878,7 @@ http:
     - ^https?:\/\/ok\.166\.net\/reunionpub\/202[2-9]{1}-[0-9]{2}-[0-9]{2}\/ntesgod_cms\/.*.jpg$ - reject
     - ^https?:\/\/one-app-h5\.faw-vw\.com\/prod-api\/mobile\/one-app\/general\/public\/v1\/first_page\/get_carousel_list?appkey.* - reject
     - ^https?:\/\/one-app-h5\.faw-vw\.com\/prod-api\/mobile\/one-app\/general\/public\/v1\/official_activity\/get_animation_putaway_list\?appkey.* - reject
+    - ^https?:\/\/oneapp-api\.faw-vw\.com\/content\/.*Code=VWAPP_ICE_OPEN_SCREEN_ADS - reject
     - ^https?:\/\/oneapph5\.dongfeng-nissan\.com\.cn\/mb-gw\/vmsp-discover\/rest\/business-service\/v1\/advert\/advertinfo - reject
     - ^https?:\/\/open3\.vistastory\.com\/v3\/api.*get_popup - reject
     - ^https?:\/\/open3\.vistastory\.com\/v3\/api\/index\/loading_ad - reject
@@ -1290,7 +1290,6 @@ http:
     - "api.17kjs.com"
     - "api.21ec74.com"
     - "api.21jingji.com"
-    - "api.369cx.cn"
     - "api.51credit.com"
     - "api.abema.io"
     - "api.ahmobile.cn"
@@ -1827,6 +1826,7 @@ http:
     - "oimage*.ydstatic.com"
     - "ok.166.net"
     - "one-app-h5.faw-vw.com"
+    - "oneapp-api.faw-vw.com"
     - "oneapph5.dongfeng-nissan.com.cn"
     - "open.78dm.net"
     - "open.e.kuaishou.com"
