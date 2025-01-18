@@ -12,19 +12,19 @@ ChinaMaxNoMedia规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2025-01-11 02:14:54
+最后更新时间：2025-01-18 02:14:33
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 421  | 
+| DOMAIN | 412  | 
 | DOMAIN-KEYWORD | 11  | 
-| DOMAIN-SUFFIX | 96902  | 
+| DOMAIN-SUFFIX | 96330  | 
 | IP-ASN | 1  | 
-| IP-CIDR | 8271  | 
-| IP-CIDR6 | 11942  | 
+| IP-CIDR | 8337  | 
+| IP-CIDR6 | 12062  | 
 | USER-AGENT | 65  | 
-| TOTAL | 117613  | 
+| TOTAL | 117218  | 
 
 
 ## Loon 
