@@ -1,15 +1,15 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-02-11 02:12:56
+# UPDATED: 2025-02-21 02:12:59
 # DOMAIN: 84
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 30886
+# DOMAIN-SUFFIX: 30902
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 31169
+# TOTAL: 31185
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
 DOMAIN,anime-rule34-world.b-cdn.net
@@ -757,6 +757,7 @@ DOMAIN-SUFFIX,adaptivecards.io
 DOMAIN-SUFFIX,adas.ac.uk
 DOMAIN-SUFFIX,adbecrsl.com
 DOMAIN-SUFFIX,adbkm.com
+DOMAIN-SUFFIX,adblockcdn.com
 DOMAIN-SUFFIX,adcommerce.tv
 DOMAIN-SUFFIX,addison-wesley.ch
 DOMAIN-SUFFIX,addison.ac.uk
@@ -10547,6 +10548,7 @@ DOMAIN-SUFFIX,hentaivideos.net
 DOMAIN-SUFFIX,hentaivn.de
 DOMAIN-SUFFIX,hentaivn.la
 DOMAIN-SUFFIX,hentaivn.net
+DOMAIN-SUFFIX,hentaivox.com
 DOMAIN-SUFFIX,hentaivvz.com
 DOMAIN-SUFFIX,hentaiworld.eu
 DOMAIN-SUFFIX,hentaiworld.tv
@@ -12980,6 +12982,7 @@ DOMAIN-SUFFIX,kphimsex.net
 DOMAIN-SUFFIX,kpht85.com
 DOMAIN-SUFFIX,kpinsurances.com
 DOMAIN-SUFFIX,kpptoto.info
+DOMAIN-SUFFIX,kraken.onl
 DOMAIN-SUFFIX,krakenjs.com
 DOMAIN-SUFFIX,krhentai.com
 DOMAIN-SUFFIX,kristenbjorn.com
@@ -15243,7 +15246,12 @@ DOMAIN-SUFFIX,mwdbank.com
 DOMAIN-SUFFIX,mwell.ac.uk
 DOMAIN-SUFFIX,mwhentai.net
 DOMAIN-SUFFIX,mwrc.ac.uk
+DOMAIN-SUFFIX,mxlogin.com
 DOMAIN-SUFFIX,mxmcdn.net
+DOMAIN-SUFFIX,mxroute.com
+DOMAIN-SUFFIX,mxroutedocs.com
+DOMAIN-SUFFIX,mxroutehelp.com
+DOMAIN-SUFFIX,mxrouting.net
 DOMAIN-SUFFIX,mxshm.site
 DOMAIN-SUFFIX,my-enema.com
 DOMAIN-SUFFIX,my-kualalumpur-1.myhuaweicloud.com
@@ -21411,6 +21419,7 @@ DOMAIN-SUFFIX,theteenhome.com
 DOMAIN-SUFFIX,thethothub.com
 DOMAIN-SUFFIX,thetimes.co.uk
 DOMAIN-SUFFIX,thetimes.ie
+DOMAIN-SUFFIX,thetrackernetwork.com
 DOMAIN-SUFFIX,thetranny.com
 DOMAIN-SUFFIX,thetread.com
 DOMAIN-SUFFIX,thetype.com
@@ -21655,6 +21664,8 @@ DOMAIN-SUFFIX,tr-west-1.myhuaweicloud.com
 DOMAIN-SUFFIX,tr.com
 DOMAIN-SUFFIX,trac.ac.uk
 DOMAIN-SUFFIX,tracingnetworks.ac.uk
+DOMAIN-SUFFIX,tracker.gg
+DOMAIN-SUFFIX,tracker.network
 DOMAIN-SUFFIX,tracking-location.com
 DOMAIN-SUFFIX,tradevip1.com
 DOMAIN-SUFFIX,traffcoll.ac.uk
@@ -24534,6 +24545,8 @@ DOMAIN-SUFFIX,youpornru.com
 DOMAIN-SUFFIX,youpornxvideos.net
 DOMAIN-SUFFIX,your-objectstorage.com
 DOMAIN-SUFFIX,your-server.de
+DOMAIN-SUFFIX,your-storagebox.de
+DOMAIN-SUFFIX,your-storageshare.de
 DOMAIN-SUFFIX,youramateurporn.com
 DOMAIN-SUFFIX,yourassbig.com
 DOMAIN-SUFFIX,yourbrain.com
@@ -25045,6 +25058,7 @@ DOMAIN-SUFFIX,5aimiku.com
 DOMAIN-SUFFIX,5i01.com
 DOMAIN-SUFFIX,5isotoi5.org
 DOMAIN-SUFFIX,5maodang.com
+DOMAIN-SUFFIX,611study.icu
 DOMAIN-SUFFIX,63i.com
 DOMAIN-SUFFIX,64museum.org
 DOMAIN-SUFFIX,64tianwang.com
@@ -28441,6 +28455,7 @@ DOMAIN-SUFFIX,newipnow.com
 DOMAIN-SUFFIX,newlandmagazine.com.au
 DOMAIN-SUFFIX,newmitbbs.com
 DOMAIN-SUFFIX,newnews.ca
+DOMAIN-SUFFIX,news1.kr
 DOMAIN-SUFFIX,news100.com.tw
 DOMAIN-SUFFIX,newsancai.com
 DOMAIN-SUFFIX,newsblur.com
@@ -28836,6 +28851,7 @@ DOMAIN-SUFFIX,picidae.net
 DOMAIN-SUFFIX,picjs.xyz
 DOMAIN-SUFFIX,picturedip.com
 DOMAIN-SUFFIX,picturesocial.com
+DOMAIN-SUFFIX,picuki.com
 DOMAIN-SUFFIX,pigav.com
 DOMAIN-SUFFIX,pimg.tw
 DOMAIN-SUFFIX,pin-cong.com
