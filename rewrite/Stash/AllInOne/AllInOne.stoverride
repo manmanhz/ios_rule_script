@@ -1,15 +1,15 @@
 name: AllInOne
-desc: 最后更新时间 2025-02-23 02:14:56
+desc: 最后更新时间 2025-03-08 02:16:49
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
 # domain: 5
 # http-request-script: 1
 # http-response-script: 25
 # redirect: 8
-# reject: 714
-# mitm: 752
+# reject: 716
+# mitm: 754
 # force-http-engine-hosts: 6
-# total: 1511
+# total: 1515
 
 
 
@@ -603,6 +603,7 @@ http:
     - ^https?:\/\/pic\.k\.sohu\.com\/img\d\/wb\/tj\/ - reject
     - ^https?:\/\/pic\d\.ajkimg\.com\/mat\/\w+\?imageMogr\d\/format\/jpg\/thumbnail\/\d{3}x\d{4}$ - reject
     - ^https?:\/\/pipi\.4kya\.com\/\/xgapp\.php\/v3\/advert\.position=[^2]+ - reject
+    - ^https?:\/\/pjlapi\.paojd\.cn\/na\/pjlNa - reject
     - ^https?:\/\/portal-xunyou\.qingcdn\.com\/api\/v\d\/ios\/ads\/ - reject
     - ^https?:\/\/portal-xunyou\.qingcdn\.com\/api\/v\d\/ios\/configs\/(splash_ad|ad_urls) - reject
     - ^https?:\/\/promotion\.medlive\.cn\/getcover-v2\?app_name=medlive - reject
@@ -737,6 +738,7 @@ http:
     - ^https?:\/\/yxhd\.hori-gz\.com\/\/jfmsApi\/commandWord\/commandWordInfo - reject
     - ^https?:\/\/yxyapi2\.yuxueyuan\.cn\/yxy-api-gateway\/api\/json\/advert\/getsAdStartScreen - reject
     - ^https?:\/\/yxyapi\d\.drcuiyutao\.com\/yxy-api-gateway\/api\/json\/advert\/ - reject
+    - ^https?:\/\/yyfapi\.huatu\.com\/common\/ad\/ - reject
     - ^https?:\/\/zconfig\.alibabausercontent\.com\/zconfig - reject
     - ^https?:\/\/zjh5api\.189smarthome\.com:\d+\/xygj-config-api\/queryData - reject
     - ^https?:\/\/zjh5api\.ott4china\.com:8091\/cp-api\/view\/config\/pos - reject
@@ -1478,6 +1480,7 @@ http:
     - "pic.edaijia.cn"
     - "pinggai*.caixin.com"
     - "pipi.4kya.com"
+    - "pjlapi.paojd.cn"
     - "plt.yorentown.com"
     - "portal-xunyou.qingcdn.com"
     - "promo.xueqiu.com"
@@ -1685,6 +1688,7 @@ http:
     - "yunbusiness.ccb.com"
     - "yxhd.hori-gz.com"
     - "yxyapi*.drcuiyutao.com"
+    - "yyfapi.huatu.com"
     - "zconfig.alibabausercontent.com"
     - "zhuanlan.zhihu.com"
     - "zjh5api.189smarthome.com"
