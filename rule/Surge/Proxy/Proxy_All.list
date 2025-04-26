@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-04-19 02:13:40
+# UPDATED: 2025-04-26 02:14:19
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6506
+# DOMAIN-SUFFIX: 6508
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6646
+# TOTAL: 6648
 DOMAIN,api.waqi.info
 DOMAIN,aqi.aqicn.org
 DOMAIN,assets-priconne-redive-us.akamaized.net
@@ -3792,6 +3792,7 @@ DOMAIN-SUFFIX,newipnow.com
 DOMAIN-SUFFIX,newlandmagazine.com.au
 DOMAIN-SUFFIX,newmitbbs.com
 DOMAIN-SUFFIX,newnews.ca
+DOMAIN-SUFFIX,news.mt.co.kr
 DOMAIN-SUFFIX,news1.kr
 DOMAIN-SUFFIX,news100.com.tw
 DOMAIN-SUFFIX,newsancai.com
@@ -4612,6 +4613,7 @@ DOMAIN-SUFFIX,rushbee.com
 DOMAIN-SUFFIX,rusvpn.com
 DOMAIN-SUFFIX,ruten.com.tw
 DOMAIN-SUFFIX,rutracker.net
+DOMAIN-SUFFIX,rutracker.org
 DOMAIN-SUFFIX,rutube.ru
 DOMAIN-SUFFIX,ruyiseek.com
 DOMAIN-SUFFIX,rxhj.net
