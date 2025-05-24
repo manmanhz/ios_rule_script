@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-05-16 02:13:48
-# DOMAIN: 89
+# UPDATED: 2025-05-24 02:12:57
+# DOMAIN: 90
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31357
+# DOMAIN-SUFFIX: 31385
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # USER-AGENT: 46
-# TOTAL: 31644
+# TOTAL: 31673
 .000webhost.com
 .01.org
 .02weqj32.com
@@ -1248,6 +1248,9 @@
 .ajsands.com
 .ajsjx.com
 .ajtalk.com
+.ak-p.tripcdn.com
+.ak-s-cw.tripcdn.com
+.ak-s.tripcdn.com
 .ak1.net
 .aka-ai.com
 .aka-ai.net
@@ -1312,6 +1315,7 @@
 .akasha.world
 .akastream.com
 .akastream.net
+.akatest.tripcdn.com
 .akatns.net
 .akiba-online.com
 .akiba-web.com
@@ -2857,6 +2861,9 @@
 .avxlive.icu
 .avxxc.com
 .avyahoo.com
+.aw-d.tripcdn.com
+.aw-p.tripcdn.com
+.aw-s.tripcdn.com
 .awayoutgame.com
 .aweencore.com
 .awesomeent.co.kr
@@ -3180,6 +3187,7 @@
 .bbqm1.xyz
 .bbs-cove.ac.uk
 .bbs-tw.com
+.bbs.naixi.net
 .bbs.sina.com
 .bbsdigest.com
 .bbsfeed.com
@@ -6570,6 +6578,7 @@
 .codeish.co
 .codeish.io
 .codeplex.com
+.coderabbit.ai
 .codeshare.io
 .codeskulptor.org
 .codespot.com
@@ -7810,6 +7819,7 @@
 .dish.com
 .dishworld.com
 .disinhe.ac.uk
+.diskstation.me
 .disney-asia.com
 .disney-discount.com
 .disney-plus.net
@@ -8033,6 +8043,7 @@
 .docker.io
 .dockerhub.com
 .dockerizer.com
+.dockerstatic.com
 .docleradn.com
 .doclercdn.com
 .docs.cfw.lbyczf.com
@@ -8286,6 +8297,9 @@
 .drweb.ru
 .drweb.uz
 .dscis.ac.uk
+.dscloud.biz
+.dscloud.me
+.dscloud.mobi
 .dscn.info
 .dses.ac.uk
 .dsex.to
@@ -8294,6 +8308,9 @@
 .dslr.net
 .dslreports.com
 .dsmtp.com
+.dsmynas.com
+.dsmynas.net
+.dsmynas.org
 .dssott.com
 .dst-dtc.ac.uk
 .dstk.dk
@@ -9398,7 +9415,6 @@
 .esopworld.com
 .esp-scotland.ac.uk
 .esp32.com
-.esp8266.com
 .espa-headlines.ac.uk
 .espa.ac.uk
 .espadoldettol.com.ar
@@ -9409,7 +9425,6 @@
 .espncdn.com
 .espnqa.com
 .esposasymaridos.com
-.espressif.com
 .esrc.ac.uk
 .esrcfestival.ac.uk
 .esrcmanchesterfest.ac.uk
@@ -9925,6 +9940,9 @@
 .family-simulator.io
 .family.co.jp
 .family.com.tw
+.familyds.com
+.familyds.net
+.familyds.org
 .familyfed.org
 .familylifestudy.ac.uk
 .familymart.com.my
@@ -13789,6 +13807,7 @@
 .i-scmp.com
 .i.org
 .i1.hk
+.i234.me
 .i2p2.de
 .i2runner.com
 .i69.com.tw
@@ -13827,6 +13846,7 @@
 .ibit.am
 .ibkr.com
 .iblist.com
+.ibllc.com
 .iblogserv-f.net
 .ibm.com
 .ibm.eu
@@ -16168,6 +16188,9 @@
 .lcwc.ac.uk
 .ld.hao123img.com
 .ldoc-cdt.ac.uk
+.ldplayer.net
+.ldplayer.tw
+.ldstatic.com
 .le-direct.tv
 .le-vpn.com
 .le.ac.uk
@@ -16485,6 +16508,7 @@
 .linpie.com
 .linseysworld.com
 .linst.ac.uk
+.linux.do
 .linux.org
 .linux.org.hk
 .linuxfoundation.org
@@ -18652,6 +18676,7 @@
 .msft.info
 .msft.net
 .msftauth.net
+.msftauthimages.net
 .msftconnecttest.com
 .msfteducation.ca
 .msftncsi.com
@@ -18857,6 +18882,7 @@
 .mydirectgroove.com
 .mydirectvchannels.com
 .mydirtyhobby.com
+.myds.me
 .myeasytv.com
 .myebay.com
 .myeclipseide.com
@@ -26029,6 +26055,7 @@
 .syncback.com
 .synergyse.com
 .synology.com
+.synology.me
 .synologydownload.com
 .synologyupdate.com
 .synsym.ac.uk
@@ -27196,6 +27223,7 @@
 .trustedpeach.com
 .trustisfps.com
 .trustsign.ch
+.trustwallet.com
 .trustwave.com
 .truthontour.org
 .truthordarepics.com
@@ -31382,6 +31410,7 @@ assets2.xboxlive.com
 az416426.vo.msecnd.net
 az668014.vo.msecnd.net
 az764295.vo.msecnd.net
+bbs.boingboing.net
 beatselectronicsllc.tt.omtrdc.net
 beck-online.beck.de
 blizzard.nefficient.co.kr
