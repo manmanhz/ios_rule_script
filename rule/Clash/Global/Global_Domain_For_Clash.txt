@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-05-31 02:15:06
+# UPDATED: 2025-06-06 09:16:33
 # DOMAIN: 91
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31523
+# DOMAIN-SUFFIX: 31534
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31767
+# TOTAL: 31778
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -2148,6 +2148,7 @@ login.microsoftonline.com
 +.asminternational.org
 +.asmrbuluo.com
 +.asn-online.org
++.asobostudio.com
 +.asp-cc.com
 +.asp.net
 +.aspbjournals.org
@@ -8574,6 +8575,7 @@ login.microsoftonline.com
 +.fgmtv.org
 +.fi11av1.com
 +.fi11tv1.com
++.fibank.bg
 +.fibre-diffraction.ac.uk
 +.ficeboock.com
 +.ficm.ac.uk
@@ -8742,6 +8744,7 @@ login.microsoftonline.com
 +.fli8.xyz
 +.flic.kr
 +.flickr.net
++.flightsimulator.com
 +.flipfap.com
 +.flipnotestudio.com
 +.flipshare.com
@@ -8825,6 +8828,7 @@ login.microsoftonline.com
 +.fortune.ac.uk
 +.fortunecentre.ac.uk
 +.fortuneinsight.com
++.forza.net
 +.forzamotorsport.net
 +.forzaracingchampionship.com
 +.forzarc.com
@@ -14381,6 +14385,7 @@ login.microsoftonline.com
 +.meadjohnson.com.tw
 +.meadjohnson.net
 +.mearki.com
++.meawallet.app
 +.meb.gov.mm
 +.mebank.ir
 +.meddyliwchamgymru.ac.uk
@@ -15459,6 +15464,7 @@ login.microsoftonline.com
 +.myfavoritearcade.com
 +.myfbfans.com
 +.myferrariheadphones.com
++.myfin.bg
 +.myfirstflame.com
 +.myfistingporn.com
 +.myfonts.com
@@ -25811,6 +25817,7 @@ login.microsoftonline.com
 +.bl-doujinsouko.com
 +.blacked.com
 +.blacklogic.com
++.blackmagicdesign.com
 +.blackvpn.com
 +.blewpass.com
 +.blingblingsquad.net
@@ -26062,6 +26069,7 @@ login.microsoftonline.com
 +.cdig.info
 +.cdjp.org
 +.cdn.angruo.com
++.cdn.arstechnica.net
 +.cdn.segment.com
 +.cdnews.com.tw
 +.cdnst.net
@@ -26210,6 +26218,7 @@ login.microsoftonline.com
 +.churchinhongkong.org
 +.chushigangdrug.ch
 +.ci-en.jp
++.cici.com
 +.ciciai.com
 +.cienen.com
 +.cineastentreff.de
@@ -26297,6 +26306,7 @@ login.microsoftonline.com
 +.codeshare.io
 +.codeskulptor.org
 +.cofacts.tw
++.coffeemanga.to
 +.coin2co.in
 +.coinbase.com
 +.coinbene.com
@@ -26382,6 +26392,7 @@ login.microsoftonline.com
 +.ct.org.tw
 +.ctao.org
 +.ctfriend.net
++.ctinews.com
 +.ctitv.com.tw
 +.ctowc.org
 +.cts.com.tw
@@ -31449,6 +31460,7 @@ login.microsoftonline.com
 +.yam.com
 +.yam.org.tw
 +.yande.re
++.yandex.com
 +.yandex.net
 +.yandex.ru
 +.yanghengjun.com
