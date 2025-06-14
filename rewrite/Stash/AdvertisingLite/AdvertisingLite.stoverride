@@ -1,11 +1,11 @@
 name: 复写去广告(严格版)
-desc: 最后更新时间 2025-06-06 09:20:36
+desc: 最后更新时间 2025-06-12 02:12:27
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
-# reject: 1227
-# mitm: 895
+# reject: 1230
+# mitm: 898
 # force-http-engine-hosts: 6
-# total: 2128
+# total: 2134
 
 
 
@@ -71,9 +71,11 @@ http:
     - ^https:\/\/dict\.youdao\.com\/homepage\/tile - reject
     - ^https:\/\/dict\.youdao\.com\/vip\/activity\/couponinfo - reject
     - ^https:\/\/dinamicx\.alibabausercontent\.com\/pub\/fish_home_top_kingkong_new\/ - reject
+    - ^https:\/\/dsp\.fcbox\.com\/adSearch\/get\? - reject
     - ^https:\/\/ecloud\.tppension\.cntaiping\.com\/fxtpplatform\/common\/anonymous\/common\/page\/queryStartPageNew\?language=zh-CN - reject
     - ^https:\/\/emisdatacenteraws\.hafoo\.com\/ad\/api\/v2\/appMarket - reject
     - ^https:\/\/ether-pack\.pangolin-sdk-toutiao\.com\/union\/endcard\/ - reject
+    - ^https:\/\/external\.fcbox\.com\/wxgw\/post\/suggestion\/query - reject
     - ^https:\/\/file\.dian\.so\/c\/leto - reject
     - ^https:\/\/gw\.chuangkit\.com\/team\/app\/common\/ad\/ - reject
     - ^https:\/\/gw\.xiaocantech\.com\/g\/pa - reject
@@ -107,6 +109,7 @@ http:
     - ^https:\/\/p0\.pipi\.cn\/adAdmin\/\w+\.(jpg|png)\?imageMogr2\/thumbnail\/(860x0|!165x165|!1049x1169) - reject
     - ^https:\/\/p0\.pipi\.cn\/adAdmin\/\w+\.jpg\?imageMogr2\/quality\/ - reject
     - ^https:\/\/patient-api\.suh\.cn\/apt\/api\/userinfo\/GetNotice\?appname=pmsys&channel=6&device=ios&language=1&source=2&version= - reject
+    - ^https:\/\/plt\.yorentown\.com\/pltapp\/v1\/banner - reject
     - ^https:\/\/qiye\.gaoding\.com\/api\/v3\/oc\/v2\/delivery-pits\/ios-splash\/ - reject
     - ^https:\/\/res\.hongyibo\.com\.cn\/os\/gs\/resapi\/activity - reject
     - ^https:\/\/router-app-api\.jdcloud\.com\/v\d\/board\/routerAppSplash - reject
@@ -1612,6 +1615,7 @@ http:
     - "dsa-mfp.fengshows.cn"
     - "dsp-impr2.youdao.com"
     - "dsp-x.jd.com"
+    - "dsp.fcbox.com"
     - "dsp.toutiao.com"
     - "dss0.bdstatic.com"
     - "du.hupucdn.com"
@@ -1638,6 +1642,7 @@ http:
     - "ether-pack.pangolin-sdk-toutiao.com"
     - "evs.500.com"
     - "explorer.tratao.com"
+    - "external.fcbox.com"
     - "facade-api.black-unique.com"
     - "fastbuyer.zbj.com"
     - "fbchina.flipchina.cn"
@@ -1929,6 +1934,7 @@ http:
     - "pipi.4kya.com"
     - "pjlapi.paojd.cn"
     - "plough.babytree.com"
+    - "plt.yorentown.com"
     - "portal-portm.meituan.com"
     - "portal-xunyou.qingcdn.com"
     - "preprod.cdzghome.com"
