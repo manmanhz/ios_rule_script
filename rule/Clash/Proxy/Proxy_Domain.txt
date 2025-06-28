@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-20 02:07:33
+# UPDATED: 2025-06-28 02:07:49
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6494
+# DOMAIN-SUFFIX: 6502
 # IP-CIDR: 93
 # IP-CIDR6: 4
-# TOTAL: 6626
+# TOTAL: 6634
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -320,6 +320,7 @@ voice.telephony.goog
 .ampproject.net
 .ampproject.org
 .amtb-taipei.org
+.amuletmc.com
 .anaconda.com
 .anchor.fm
 .anchorfree.com
@@ -431,6 +432,7 @@ voice.telephony.goog
 .artstation.com
 .artsy.net
 .arunachalforests.gov.in
+.arvanstorage.ir
 .asacp.org
 .asdfg.jp
 .asg.to
@@ -1916,6 +1918,7 @@ voice.telephony.goog
 .foolsmountain.com
 .fooooo.com
 .footwiball.com
+.forbes.com
 .foreignaffairs.com
 .foreignpolicy.com
 .form.new
@@ -2279,6 +2282,7 @@ voice.telephony.goog
 .gotquestions.org
 .gotrusted.com
 .gotw.ca
+.gov.ir
 .gov.taipei
 .gov.tw
 .gr8domain.biz
@@ -2818,8 +2822,10 @@ voice.telephony.goog
 .iptv.com.tw
 .iptvbin.com
 .ipvanish.com
+.irangov.ir
 .iredmail.org
 .irib.ir
+.irna.ir
 .ironpython.net
 .ironsocket.com
 .is-a-hunter.com
@@ -4309,6 +4315,7 @@ voice.telephony.goog
 .premproxy.com
 .presentation.new
 .presentationzen.com
+.president.ir
 .presidentlee.tw
 .prestige-av.com
 .primevideo.com
@@ -4447,6 +4454,7 @@ voice.telephony.goog
 .radiotime.com
 .radiovaticana.org
 .radiovncr.com
+.radmin-vpn.com
 .rael.org
 .raggedbanner.com
 .raidcall.com.tw
