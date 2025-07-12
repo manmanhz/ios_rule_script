@@ -1,7 +1,7 @@
 # NAME: Apple
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-07-04 02:05:58
+# UPDATED: 2025-07-12 02:06:04
 # DOMAIN: 10
 # DOMAIN-KEYWORD: 7
 # DOMAIN-SUFFIX: 1549
@@ -1563,7 +1563,6 @@ payload:
   - '+.musickit.net'
   - '+.wwwapplemusic.com'
   - '+.apple-dns.net'
-  - '+.cdn-apple.com'
   - '+.digicert.com'
   - '+.apple-cloudkit.com'
   - '+.apple-livephotoskit.com'

@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-30 02:07:25
+# UPDATED: 2025-07-12 02:07:23
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31559
+# DOMAIN-SUFFIX: 31560
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31822
+# TOTAL: 31823
 payload:
   - DOMAIN,1password.drift.click
   - DOMAIN,adobeereg.com
@@ -2021,7 +2021,6 @@ payload:
   - DOMAIN-SUFFIX,apyle.com
   - DOMAIN-SUFFIX,aqmen.ac.uk
   - DOMAIN-SUFFIX,aquinas.ac.uk
-  - DOMAIN-SUFFIX,ar.hao123.com
   - DOMAIN-SUFFIX,arabianchicks.com
   - DOMAIN-SUFFIX,arabidopsis.org
   - DOMAIN-SUFFIX,arabnek.com
@@ -2475,6 +2474,7 @@ payload:
   - DOMAIN-SUFFIX,avinin.com
   - DOMAIN-SUFFIX,avizoon.site
   - DOMAIN-SUFFIX,avizoone.com
+  - DOMAIN-SUFFIX,avjb.com
   - DOMAIN-SUFFIX,avjiasu.com
   - DOMAIN-SUFFIX,avjoy.me
   - DOMAIN-SUFFIX,avjzy67.xyz
@@ -6821,7 +6821,6 @@ payload:
   - DOMAIN-SUFFIX,donttrack.us
   - DOMAIN-SUFFIX,doodhwali.com
   - DOMAIN-SUFFIX,doom.com
-  - DOMAIN-SUFFIX,doom9.org
   - DOMAIN-SUFFIX,dopaminegirl.com
   - DOMAIN-SUFFIX,dorset-acl.ac.uk
   - DOMAIN-SUFFIX,dorset-al.ac.uk
@@ -7163,7 +7162,6 @@ payload:
   - DOMAIN-SUFFIX,e-szigno.hu
   - DOMAIN-SUFFIX,e-tugra.com
   - DOMAIN-SUFFIX,e3an.ac.uk
-  - DOMAIN-SUFFIX,e621.net
   - DOMAIN-SUFFIX,ea-anz-press.com
   - DOMAIN-SUFFIX,ea.com
   - DOMAIN-SUFFIX,eaaccess.com
@@ -16931,7 +16929,6 @@ payload:
   - DOMAIN-SUFFIX,onlyprime.ru
   - DOMAIN-SUFFIX,onlysiterip.com
   - DOMAIN-SUFFIX,onmanorama.com
-  - DOMAIN-SUFFIX,onmypc.net
   - DOMAIN-SUFFIX,onsalekey.com
   - DOMAIN-SUFFIX,onsaletrend.com
   - DOMAIN-SUFFIX,onstream.cc
@@ -25580,6 +25577,7 @@ payload:
   - DOMAIN-SUFFIX,appspot.com
   - DOMAIN-SUFFIX,appsto.re
   - DOMAIN-SUFFIX,aptoide.com
+  - DOMAIN-SUFFIX,ar.hao123.com
   - DOMAIN-SUFFIX,arcgis.com
   - DOMAIN-SUFFIX,archive.fo
   - DOMAIN-SUFFIX,archive.is
@@ -26637,6 +26635,7 @@ payload:
   - DOMAIN-SUFFIX,donmai.us
   - DOMAIN-SUFFIX,dontfilter.us
   - DOMAIN-SUFFIX,dontmovetochina.com
+  - DOMAIN-SUFFIX,doom9.org
   - DOMAIN-SUFFIX,doosho.com
   - DOMAIN-SUFFIX,doourbest.org
   - DOMAIN-SUFFIX,dorjeshugden.com
@@ -26732,6 +26731,7 @@ payload:
   - DOMAIN-SUFFIX,e-traderland.net
   - DOMAIN-SUFFIX,e-zone.com.hk
   - DOMAIN-SUFFIX,e123.hk
+  - DOMAIN-SUFFIX,e621.net
   - DOMAIN-SUFFIX,earlytibet.com
   - DOMAIN-SUFFIX,earthcam.com
   - DOMAIN-SUFFIX,earthvpn.com
@@ -29181,6 +29181,7 @@ payload:
   - DOMAIN-SUFFIX,onmoon.net
   - DOMAIN-SUFFIX,onmypc.biz
   - DOMAIN-SUFFIX,onmypc.info
+  - DOMAIN-SUFFIX,onmypc.net
   - DOMAIN-SUFFIX,onmypc.org
   - DOMAIN-SUFFIX,onmypc.us
   - DOMAIN-SUFFIX,onthehunt.com

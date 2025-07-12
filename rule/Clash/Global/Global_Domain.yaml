@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-30 02:07:25
+# UPDATED: 2025-07-12 02:07:23
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31559
+# DOMAIN-SUFFIX: 31560
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31822
+# TOTAL: 31823
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -2021,7 +2021,6 @@ payload:
   - '+.apyle.com'
   - '+.aqmen.ac.uk'
   - '+.aquinas.ac.uk'
-  - '+.ar.hao123.com'
   - '+.arabianchicks.com'
   - '+.arabidopsis.org'
   - '+.arabnek.com'
@@ -2475,6 +2474,7 @@ payload:
   - '+.avinin.com'
   - '+.avizoon.site'
   - '+.avizoone.com'
+  - '+.avjb.com'
   - '+.avjiasu.com'
   - '+.avjoy.me'
   - '+.avjzy67.xyz'
@@ -6821,7 +6821,6 @@ payload:
   - '+.donttrack.us'
   - '+.doodhwali.com'
   - '+.doom.com'
-  - '+.doom9.org'
   - '+.dopaminegirl.com'
   - '+.dorset-acl.ac.uk'
   - '+.dorset-al.ac.uk'
@@ -7163,7 +7162,6 @@ payload:
   - '+.e-szigno.hu'
   - '+.e-tugra.com'
   - '+.e3an.ac.uk'
-  - '+.e621.net'
   - '+.ea-anz-press.com'
   - '+.ea.com'
   - '+.eaaccess.com'
@@ -16931,7 +16929,6 @@ payload:
   - '+.onlyprime.ru'
   - '+.onlysiterip.com'
   - '+.onmanorama.com'
-  - '+.onmypc.net'
   - '+.onsalekey.com'
   - '+.onsaletrend.com'
   - '+.onstream.cc'
@@ -25580,6 +25577,7 @@ payload:
   - '+.appspot.com'
   - '+.appsto.re'
   - '+.aptoide.com'
+  - '+.ar.hao123.com'
   - '+.arcgis.com'
   - '+.archive.fo'
   - '+.archive.is'
@@ -26637,6 +26635,7 @@ payload:
   - '+.donmai.us'
   - '+.dontfilter.us'
   - '+.dontmovetochina.com'
+  - '+.doom9.org'
   - '+.doosho.com'
   - '+.doourbest.org'
   - '+.dorjeshugden.com'
@@ -26732,6 +26731,7 @@ payload:
   - '+.e-traderland.net'
   - '+.e-zone.com.hk'
   - '+.e123.hk'
+  - '+.e621.net'
   - '+.earlytibet.com'
   - '+.earthcam.com'
   - '+.earthvpn.com'
@@ -29181,6 +29181,7 @@ payload:
   - '+.onmoon.net'
   - '+.onmypc.biz'
   - '+.onmypc.info'
+  - '+.onmypc.net'
   - '+.onmypc.org'
   - '+.onmypc.us'
   - '+.onthehunt.com'
