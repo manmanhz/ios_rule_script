@@ -1,8 +1,8 @@
 ! Title: AdvertisingLite
 ! Author: blackmatrix7
 ! Homepage: https://github.com/blackmatrix7/ios_rule_script
-! Updated: 2025-07-12 02:03:38
-! Total: 37679
+! Updated: 2025-07-18 02:03:44
+! Total: 37689
 
 
 ||00-gov.cn^
@@ -3041,6 +3041,7 @@
 ||admez.com^
 ||admgr.qingting.fm^
 ||admicro1.vcmedia.vn^
+||admiitad.com^
 ||admile.ru^
 ||admin.louxia.org^
 ||admin.vserv.mobi^
@@ -3393,6 +3394,7 @@
 ||adse.wsa.ximalaya.com^
 ||adse.ximalaya.com^
 ||adsebs.ximalaya.com^
+||adsehera.ximalaya.com^
 ||adsence.sogou.com^
 ||adsense.html5.qq.com^
 ||adsensecamp.com^
@@ -4134,6 +4136,7 @@
 ||ahlxxx.com^
 ||ahneiwkpsnxign.com^
 ||ahqlx.top^
+||ahqovxli.com^
 ||ahrbsdyjux.com^
 ||ahrcwekji.com^
 ||ahstrelgnh.com^
@@ -13075,6 +13078,7 @@
 ||finsbfaizzx.com^
 ||finverty.info^
 ||fiozxmznaba.com^
+||fipabtomqok.com^
 ||fipipo.cn^
 ||firaxtech.com^
 ||firefang.cn^
@@ -13381,6 +13385,7 @@
 ||fqtra.com^
 ||fqwrluzjti.com^
 ||fqzds.com^
+||fractionfridgejudiciary.com^
 ||frailoffer.com^
 ||frame.enet.com.cn^
 ||framentyder.pro^
@@ -18756,6 +18761,7 @@
 ||krb.devphp.org.ua^
 ||krboeyeq.com^
 ||krdvzahyr.com^
+||kreopbkabsit.com^
 ||krfbhbhal.com^
 ||krison.xyz^
 ||krjleggwikuil.com^
@@ -23322,6 +23328,7 @@
 ||ocpersian.com^
 ||ocphuciylacb.com^
 ||ocphuulbithyyd.com^
+||ocponcphaafb.com^
 ||ocsp.godaddy.com^
 ||octavius.rocks^
 ||octomarket.com^
@@ -25241,6 +25248,7 @@
 ||ppctrck.com^
 ||ppcwebspy.com^
 ||ppdb.pl^
+||ppezijkacga.com^
 ||ppfjlk1.5tps.vip^
 ||ppfpocea.com^
 ||pphyjqna.com^
@@ -30726,6 +30734,7 @@
 ||taps.io^
 ||tapstream.com^
 ||taptica.com^
+||tapwhigwy.com^
 ||tarawerap.com^
 ||tardangro.com^
 ||targaubs.com^
@@ -31049,6 +31058,7 @@
 ||theirsvendor.com^
 ||thejesperbay.com^
 ||thekat.nl^
+||thelifeandmore.com^
 ||theloungenet.com^
 ||thelovebucks.com^
 ||themaxmall.com^
