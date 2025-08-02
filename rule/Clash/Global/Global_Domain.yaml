@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-07-20 02:07:30
+# UPDATED: 2025-08-01 02:07:45
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31562
+# DOMAIN-SUFFIX: 31565
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 31825
+# TOTAL: 31828
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -23463,7 +23463,6 @@ payload:
   - '+.walker-institute.ac.uk'
   - '+.walker.ac.uk'
   - '+.wallet.com'
-  - '+.walletconnect.com'
   - '+.wallhaven.cc'
   - '+.walmart-content.com'
   - '+.walmart.com'
@@ -25074,6 +25073,7 @@ payload:
   - '+.zazzybabes.com'
   - '+.zb.app'
   - '+.zb.io'
+  - '+.zb.live'
   - '+.zbporn.com'
   - '+.zctb.buzz'
   - '+.zdassets.com'
@@ -28460,6 +28460,7 @@ payload:
   - '+.lsxszzg.com'
   - '+.ltn.com.tw'
   - '+.luckydesigner.space'
+  - '+.ludepress.com'
   - '+.luke54.com'
   - '+.luke54.org'
   - '+.lupm.org'
@@ -31164,6 +31165,7 @@ payload:
   - '+.wailaike.net'
   - '+.wainao.me'
   - '+.waiwaier.com'
+  - '+.walletconnect.com'
   - '+.wallmama.com'
   - '+.wallornot.org'
   - '+.wallpapercasa.com'
@@ -31512,6 +31514,7 @@ payload:
   - '+.yandex.ru'
   - '+.yanghengjun.com'
   - '+.yangjianli.com'
+  - '+.yangzhi.org'
   - '+.yasni.co.uk'
   - '+.yastatic.net'
   - '+.yasukuni.or.jp'
