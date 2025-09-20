@@ -1,13 +1,13 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-09-08 02:07:41
+# UPDATED: 2025-09-20 02:08:08
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31838
+# DOMAIN-SUFFIX: 31841
 # IP-CIDR: 116
 # USER-AGENT: 46
-# TOTAL: 32146
+# TOTAL: 32149
 .000webhost.com
 .01.org
 .02weqj32.com
@@ -17861,6 +17861,7 @@
 .mcstories.com
 .mcsw.ac.uk
 .mctimoney-college.ac.uk
+.mcusercontent.com
 .md-t.org
 .mdbankpublic.com
 .mdhcdn.com
@@ -26559,6 +26560,7 @@
 .talentlens.com
 .taleofthenight.com
 .talk853.com
+.talkatone.com
 .talkboxapp.com
 .talkcc.com
 .talkinghealthmatters.ac.uk
@@ -28007,6 +28009,7 @@
 .txmblr.com
 .txqzz34r.com
 .txvia.com
+.txvlog.com
 .txxx.com
 .txxx1.com
 .tycool.com

@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-09-08 02:07:41
+# UPDATED: 2025-09-20 02:08:07
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31838
+# DOMAIN-SUFFIX: 31841
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32101
+# TOTAL: 32104
 payload:
   - DOMAIN,1password.drift.click
   - DOMAIN,adobeereg.com
@@ -22507,6 +22507,7 @@ payload:
   - DOMAIN-SUFFIX,txdirectv.com
   - DOMAIN-SUFFIX,txqzz34r.com
   - DOMAIN-SUFFIX,txvia.com
+  - DOMAIN-SUFFIX,txvlog.com
   - DOMAIN-SUFFIX,txxx1.com
   - DOMAIN-SUFFIX,tyler-brown.com
   - DOMAIN-SUFFIX,tyms2022.com
@@ -28868,6 +28869,7 @@ payload:
   - DOMAIN-SUFFIX,mcaf.ee
   - DOMAIN-SUFFIX,mcfog.com
   - DOMAIN-SUFFIX,mcreasite.com
+  - DOMAIN-SUFFIX,mcusercontent.com
   - DOMAIN-SUFFIX,md-t.org
   - DOMAIN-SUFFIX,me.me
   - DOMAIN-SUFFIX,meansys.com
@@ -30610,6 +30612,7 @@ payload:
   - DOMAIN-SUFFIX,taiwanus.net
   - DOMAIN-SUFFIX,taiwanyes.com
   - DOMAIN-SUFFIX,talk853.com
+  - DOMAIN-SUFFIX,talkatone.com
   - DOMAIN-SUFFIX,talkboxapp.com
   - DOMAIN-SUFFIX,talkcc.com
   - DOMAIN-SUFFIX,talkonly.net
