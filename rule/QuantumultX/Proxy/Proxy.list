@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-09-16 02:08:27
+# UPDATED: 2025-09-26 02:08:42
 # HOST: 19
 # HOST-KEYWORD: 26
-# HOST-SUFFIX: 6979
+# HOST-SUFFIX: 6986
 # IP-CIDR: 93
 # IP6-CIDR: 4
 # USER-AGENT: 8
-# TOTAL: 7129
+# TOTAL: 7136
 HOST,api.msn.com,Proxy
 HOST,api.waqi.info,Proxy
 HOST,aqi.aqicn.org,Proxy
@@ -400,6 +400,7 @@ HOST-SUFFIX,apetube.com,Proxy
 HOST-SUFFIX,api.ai,Proxy
 HOST-SUFFIX,api.amplitude.com,Proxy
 HOST-SUFFIX,api.mixpanel.com,Proxy
+HOST-SUFFIX,api.palworldgame.com,Proxy
 HOST-SUFFIX,api.proxlet.com,Proxy
 HOST-SUFFIX,api.termius.com,Proxy
 HOST-SUFFIX,apiary.io,Proxy
@@ -1351,6 +1352,7 @@ HOST-SUFFIX,csw.org.uk,Proxy
 HOST-SUFFIX,ct.org.tw,Proxy
 HOST-SUFFIX,ctao.org,Proxy
 HOST-SUFFIX,ctfriend.net,Proxy
+HOST-SUFFIX,ctinets.com,Proxy
 HOST-SUFFIX,ctinews.com,Proxy
 HOST-SUFFIX,ctitv.com.tw,Proxy
 HOST-SUFFIX,ctowc.org,Proxy
@@ -2238,6 +2240,7 @@ HOST-SUFFIX,gardennetworks.com,Proxy
 HOST-SUFFIX,gardennetworks.org,Proxy
 HOST-SUFFIX,garena.com,Proxy
 HOST-SUFFIX,gartlive.com,Proxy
+HOST-SUFFIX,garudalinux.org,Proxy
 HOST-SUFFIX,gate-project.com,Proxy
 HOST-SUFFIX,gate.io,Proxy
 HOST-SUFFIX,gatecoin.com,Proxy
@@ -3205,6 +3208,7 @@ HOST-SUFFIX,international-news.newsmagazine.asia,Proxy
 HOST-SUFFIX,internet.org,Proxy
 HOST-SUFFIX,internetfreedom.org,Proxy
 HOST-SUFFIX,internetpopculture.com,Proxy
+HOST-SUFFIX,interseclab.org,Proxy
 HOST-SUFFIX,inthenameofconfuciusmovie.com,Proxy
 HOST-SUFFIX,investing.com,Proxy
 HOST-SUFFIX,invidio.us,Proxy
@@ -4258,6 +4262,7 @@ HOST-SUFFIX,nintendium.com,Proxy
 HOST-SUFFIX,nintendo.com,Proxy
 HOST-SUFFIX,nintendo.net,Proxy
 HOST-SUFFIX,ninth.biz,Proxy
+HOST-SUFFIX,nirsoft.net,Proxy
 HOST-SUFFIX,nitter.cc,Proxy
 HOST-SUFFIX,nitter.net,Proxy
 HOST-SUFFIX,niu.moe,Proxy
@@ -4377,6 +4382,7 @@ HOST-SUFFIX,ocreampies.com,Proxy
 HOST-SUFFIX,ocry.com,Proxy
 HOST-SUFFIX,ocsp.int-x3.letsencrypt.org,Proxy
 HOST-SUFFIX,october-review.org,Proxy
+HOST-SUFFIX,octocaptcha.com,Proxy
 HOST-SUFFIX,oculus.com,Proxy
 HOST-SUFFIX,oculuscdn.com,Proxy
 HOST-SUFFIX,odysee.com,Proxy
@@ -6442,6 +6448,7 @@ HOST-SUFFIX,vpnvip.com,Proxy
 HOST-SUFFIX,vpnworldwide.com,Proxy
 HOST-SUFFIX,vporn.com,Proxy
 HOST-SUFFIX,vpser.net,Proxy
+HOST-SUFFIX,vpsxb.net,Proxy
 HOST-SUFFIX,vraiesagesse.net,Proxy
 HOST-SUFFIX,vrchat.com,Proxy
 HOST-SUFFIX,vrmtr.com,Proxy

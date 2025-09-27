@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-09-20 02:08:07
+# UPDATED: 2025-09-26 02:08:21
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31841
+# DOMAIN-SUFFIX: 31848
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32104
+# TOTAL: 32111
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -25881,6 +25881,7 @@ login.microsoftonline.com
 +.apetube.com
 +.api.ai
 +.api.mixpanel.com
++.api.palworldgame.com
 +.apiary.io
 +.apigee.com
 +.apk-dl.com
@@ -26737,6 +26738,7 @@ login.microsoftonline.com
 +.ct.org.tw
 +.ctao.org
 +.ctfriend.net
++.ctinets.com
 +.ctinews.com
 +.ctitv.com.tw
 +.ctowc.org
@@ -27586,6 +27588,7 @@ login.microsoftonline.com
 +.gardennetworks.org
 +.garena.com
 +.gartlive.com
++.garudalinux.org
 +.gate-project.com
 +.gate.io
 +.gatecoin.com
@@ -28275,6 +28278,7 @@ login.microsoftonline.com
 +.internet.org
 +.internetfreedom.org
 +.internetpopculture.com
++.interseclab.org
 +.inthenameofconfuciusmovie.com
 +.investing.com
 +.invidio.us
@@ -29317,6 +29321,7 @@ login.microsoftonline.com
 +.nintendo.com
 +.nintendo.net
 +.ninth.biz
++.nirsoft.net
 +.nitter.cc
 +.nitter.net
 +.niu.moe
@@ -29434,6 +29439,7 @@ login.microsoftonline.com
 +.ocreampies.com
 +.ocry.com
 +.october-review.org
++.octocaptcha.com
 +.oculus.com
 +.oculuscdn.com
 +.odysee.com
@@ -31421,6 +31427,7 @@ login.microsoftonline.com
 +.vpnvip.com
 +.vpnworldwide.com
 +.vpser.net
++.vpsxb.net
 +.vraiesagesse.net
 +.vrchat.com
 +.vrmtr.com
