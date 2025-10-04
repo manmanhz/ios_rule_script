@@ -1,7 +1,7 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-09-26 02:08:21
+# UPDATED: 2025-10-04 02:08:13
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
 # DOMAIN-SUFFIX: 31848
@@ -14137,7 +14137,6 @@ DOMAIN-SUFFIX,m5ir5np1.shop
 DOMAIN-SUFFIX,m5servicedesk.ac.uk
 DOMAIN-SUFFIX,m5universities.ac.uk
 DOMAIN-SUFFIX,ma1lib.org
-DOMAIN-SUFFIX,maa.plus
 DOMAIN-SUFFIX,mabbank.com
 DOMAIN-SUFFIX,mablethorpe.ac.uk
 DOMAIN-SUFFIX,mac-migs.ac.uk
@@ -30633,6 +30632,7 @@ DOMAIN-SUFFIX,tapanwap.com
 DOMAIN-SUFFIX,tapatalk.com
 DOMAIN-SUFFIX,tapbots.com
 DOMAIN-SUFFIX,tapbots.net
+DOMAIN-SUFFIX,taptap.io
 DOMAIN-SUFFIX,taptap.tw
 DOMAIN-SUFFIX,taragana.com
 DOMAIN-SUFFIX,tardigrade.io

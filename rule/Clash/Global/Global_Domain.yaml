@@ -1,7 +1,7 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-09-26 02:08:21
+# UPDATED: 2025-10-04 02:08:13
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
 # DOMAIN-SUFFIX: 31848
@@ -14138,7 +14138,6 @@ payload:
   - '+.m5servicedesk.ac.uk'
   - '+.m5universities.ac.uk'
   - '+.ma1lib.org'
-  - '+.maa.plus'
   - '+.mabbank.com'
   - '+.mablethorpe.ac.uk'
   - '+.mac-migs.ac.uk'
@@ -30634,6 +30633,7 @@ payload:
   - '+.tapatalk.com'
   - '+.tapbots.com'
   - '+.tapbots.net'
+  - '+.taptap.io'
   - '+.taptap.tw'
   - '+.taragana.com'
   - '+.tardigrade.io'
