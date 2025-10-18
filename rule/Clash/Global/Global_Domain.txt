@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-10-10 02:08:33
+# UPDATED: 2025-10-18 02:08:09
 # DOMAIN: 110
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 31850
+# DOMAIN-SUFFIX: 31857
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32113
+# TOTAL: 32120
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -9939,6 +9939,7 @@ login.microsoftonline.com
 .gmhigher.ac.uk
 .gmims.ac.uk
 .gmms.ac.uk
+.gmnetworks.net
 .gmoney.org
 .gmsa.ac.uk
 .gnai-dh.sbs
@@ -22307,7 +22308,6 @@ login.microsoftonline.com
 .trustedpeach.com
 .trustisfps.com
 .trustsign.ch
-.trustwallet.com
 .trustwave.com
 .truthordarepics.com
 .truyen-hentai.com
@@ -25941,6 +25941,7 @@ login.microsoftonline.com
 .asiaharvest.org
 .asianage.com
 .asianews.it
+.asianfanfics.com
 .asiansexdiary.com
 .asianspiss.com
 .asianwomensfilm.de
@@ -27457,6 +27458,8 @@ login.microsoftonline.com
 .freefq.com
 .freefuckvids.com
 .freegao.com
+.freegpt.es
+.freegpt.tech
 .freehongkong.org
 .freeilhamtohti.org
 .freekazakhs.org
@@ -30985,6 +30988,7 @@ login.microsoftonline.com
 .truesocial.media
 .trulyergonomic.com
 .trustasiassl.com
+.trustwallet.com
 .truthontour.org
 .truthsocial.com
 .truveo.com
@@ -31508,6 +31512,7 @@ login.microsoftonline.com
 .webrtc.org
 .webrush.net
 .webs-tv.net
+.websdr.org
 .website.new
 .websitepulse.com
 .websnapr.com
@@ -31747,6 +31752,7 @@ login.microsoftonline.com
 .xn--noss43i.com
 .xn--oiq.cc
 .xn--p8j9a0d9c9a.xn--q9jyb4c
+.xn--u2u927b.com
 .xnpool.com
 .xnxx-cdn.com
 .xnxx.com
@@ -31889,6 +31895,7 @@ login.microsoftonline.com
 .z-lib.gl
 .z-lib.io
 .z-lib.org
+.z-library.ec
 .z-library.sk
 .zacebook.com
 .zalmos.com
