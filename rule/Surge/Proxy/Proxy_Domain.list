@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-10-24 02:08:46
+# UPDATED: 2025-11-08 02:08:41
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6520
+# DOMAIN-SUFFIX: 6522
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6660
+# TOTAL: 6662
 .000webhost.com
 .030buy.com
 .0rz.tw
@@ -1894,6 +1894,7 @@
 .flecheinthepeche.fr
 .fleshbot.com
 .fleursdeslettres.com
+.flexclip.com
 .flexibits.com
 .flexpool.io
 .flgg.us
@@ -5235,6 +5236,7 @@
 .telegraph.co.uk
 .telesco.pe
 .tellme.pw
+.temu.com
 .tenacy.com
 .tenor.com
 .tensorflow.org

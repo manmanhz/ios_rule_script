@@ -1,14 +1,14 @@
 # NAME: ChinaMaxNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-01 02:11:57
+# UPDATED: 2025-11-08 02:11:20
 # DOMAIN: 275
 # DOMAIN-KEYWORD: 11
 # DOMAIN-SUFFIX: 116746
 # IP-ASN: 1
-# IP-CIDR: 19540
+# IP-CIDR: 20031
 # USER-AGENT: 65
-# TOTAL: 136638
+# TOTAL: 137129
 .0.zone
 .00.net
 .000.link
@@ -52248,7 +52248,6 @@
 .imliuyi.com
 .imlizhi.com
 .immeee.com
-.immersivetranslate.com
 .immfast.com
 .immi520.com
 .immiexpo.com
@@ -113955,6 +113954,7 @@
 .zhuanhuanqi.com
 .zhuanhuanqi.net
 .zhuaniao.com
+.zhuaninc.com
 .zhuankeapp.com
 .zhuankebang.com
 .zhuankezu.com
