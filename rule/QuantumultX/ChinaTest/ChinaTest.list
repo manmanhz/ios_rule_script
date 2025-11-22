@@ -1,15 +1,15 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-14 02:09:03
+# UPDATED: 2025-11-22 02:08:48
 # HOST: 130
 # HOST-KEYWORD: 9
-# HOST-SUFFIX: 116429
+# HOST-SUFFIX: 116435
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
 # USER-AGENT: 31
-# TOTAL: 116615
+# TOTAL: 116621
 HOST,analytics.strava.com,ChinaTest
 HOST,blzddist1-a.akamaihd.net,ChinaTest
 HOST,cdn.angruo.com,ChinaTest
@@ -10148,6 +10148,7 @@ HOST-SUFFIX,5zhr.com,ChinaTest
 HOST-SUFFIX,5zls.com,ChinaTest
 HOST-SUFFIX,5zw.com,ChinaTest
 HOST-SUFFIX,6-china.com,ChinaTest
+HOST-SUFFIX,6-u.com,ChinaTest
 HOST-SUFFIX,600064.com,ChinaTest
 HOST-SUFFIX,600083.com,ChinaTest
 HOST-SUFFIX,600086.com,ChinaTest
@@ -15361,6 +15362,7 @@ HOST-SUFFIX,anyv.net,ChinaTest
 HOST-SUFFIX,anyview.net,ChinaTest
 HOST-SUFFIX,anyway.fm,ChinaTest
 HOST-SUFFIX,anyway.red,ChinaTest
+HOST-SUFFIX,anywlan.com,ChinaTest
 HOST-SUFFIX,anywood.com,ChinaTest
 HOST-SUFFIX,anyxz.com,ChinaTest
 HOST-SUFFIX,anzerclub.com,ChinaTest
@@ -54413,6 +54415,7 @@ HOST-SUFFIX,imsilkroad.com,ChinaTest
 HOST-SUFFIX,imsinoexpo.com,ChinaTest
 HOST-SUFFIX,imsle.com,ChinaTest
 HOST-SUFFIX,imsun.net,ChinaTest
+HOST-SUFFIX,imsyy.com,ChinaTest
 HOST-SUFFIX,imtaweb.net,ChinaTest
 HOST-SUFFIX,imtics.com,ChinaTest
 HOST-SUFFIX,imtmp.net,ChinaTest
@@ -61302,6 +61305,7 @@ HOST-SUFFIX,kekebaby.com,ChinaTest
 HOST-SUFFIX,kekedj.com,ChinaTest
 HOST-SUFFIX,kekegold.com,ChinaTest
 HOST-SUFFIX,kekenet.com,ChinaTest
+HOST-SUFFIX,kekeniu.com,ChinaTest
 HOST-SUFFIX,kekeshici.com,ChinaTest
 HOST-SUFFIX,kekexueba.com,ChinaTest
 HOST-SUFFIX,kekeyuyin.com,ChinaTest
@@ -80548,6 +80552,7 @@ HOST-SUFFIX,qzhospital.com,ChinaTest
 HOST-SUFFIX,qzhrkj.com,ChinaTest
 HOST-SUFFIX,qzhsjc.com,ChinaTest
 HOST-SUFFIX,qzhslw.com,ChinaTest
+HOST-SUFFIX,qzhuye.com,ChinaTest
 HOST-SUFFIX,qzhxshipping.com,ChinaTest
 HOST-SUFFIX,qzimg.com,ChinaTest
 HOST-SUFFIX,qzj2.com,ChinaTest
@@ -96793,6 +96798,7 @@ HOST-SUFFIX,viablife.com,ChinaTest
 HOST-SUFFIX,viaeda.com,ChinaTest
 HOST-SUFFIX,vial.cc,ChinaTest
 HOST-SUFFIX,viarmour.com,ChinaTest
+HOST-SUFFIX,viayoo.com,ChinaTest
 HOST-SUFFIX,viberom.com,ChinaTest
 HOST-SUFFIX,vibit.cc,ChinaTest
 HOST-SUFFIX,vibrou.com,ChinaTest

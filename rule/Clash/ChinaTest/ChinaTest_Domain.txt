@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-11-14 02:09:07
+# UPDATED: 2025-11-22 02:08:52
 # DOMAIN: 130
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 116429
+# DOMAIN-SUFFIX: 116435
 # IP-CIDR: 11
 # IP-CIDR6: 4
-# TOTAL: 116583
+# TOTAL: 116589
 analytics.strava.com
 blzddist1-a.akamaihd.net
 cdn.angruo.com
@@ -10146,6 +10146,7 @@ xn--flw351e.com
 .5zls.com
 .5zw.com
 .6-china.com
+.6-u.com
 .600064.com
 .600083.com
 .600086.com
@@ -15359,6 +15360,7 @@ xn--flw351e.com
 .anyview.net
 .anyway.fm
 .anyway.red
+.anywlan.com
 .anywood.com
 .anyxz.com
 .anzerclub.com
@@ -54411,6 +54413,7 @@ xn--flw351e.com
 .imsinoexpo.com
 .imsle.com
 .imsun.net
+.imsyy.com
 .imtaweb.net
 .imtics.com
 .imtmp.net
@@ -61300,6 +61303,7 @@ xn--flw351e.com
 .kekedj.com
 .kekegold.com
 .kekenet.com
+.kekeniu.com
 .kekeshici.com
 .kekexueba.com
 .kekeyuyin.com
@@ -80546,6 +80550,7 @@ xn--flw351e.com
 .qzhrkj.com
 .qzhsjc.com
 .qzhslw.com
+.qzhuye.com
 .qzhxshipping.com
 .qzimg.com
 .qzj2.com
@@ -96791,6 +96796,7 @@ xn--flw351e.com
 .viaeda.com
 .vial.cc
 .viarmour.com
+.viayoo.com
 .viberom.com
 .vibit.cc
 .vibrou.com
