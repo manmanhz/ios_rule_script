@@ -1,13 +1,13 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-26 02:08:07
-# DOMAIN: 117
+# UPDATED: 2026-01-02 02:07:48
+# DOMAIN: 114
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32362
+# DOMAIN-SUFFIX: 32372
 # IP-CIDR: 116
 # USER-AGENT: 46
-# TOTAL: 32677
+# TOTAL: 32684
 .000webhost.com
 .01.org
 .02weqj32.com
@@ -2413,6 +2413,7 @@
 .archivx.to
 .archlinux.org
 .archlinuxarm.org
+.archlinuxcn.org
 .archway.ac.uk
 .arcom.ac.uk
 .arcraiders.com
@@ -3069,6 +3070,7 @@
 .azuresmartspaces.net
 .azurestackvalidation.com
 .azurewebsites.net
+.b-cdn.net
 .b-eroland.net
 .b-ok.africa
 .b-ok.asia
@@ -5259,6 +5261,8 @@
 .bumptunes.com
 .bunbunhk.com
 .bunka.go.jp
+.bunny.net
+.bunnycdn.com
 .bunnylust.com
 .burningcamel.com
 .burnley.ac.uk
@@ -11945,6 +11949,7 @@
 .gfw.press
 .gfw.report
 .gfwatch.org
+.gfwbao.com
 .gfwlist.end
 .gfwlist.start
 .gfx.ms
@@ -12012,6 +12017,7 @@
 .girlscv.com
 .girlsdelta.com
 .girlsfuck-tube.com
+.girlsheaven-job.net
 .girlsnudepic.com
 .girlsofdesire.org
 .girlsongirlstube.com
@@ -12206,6 +12212,7 @@
 .gockhuatviet.com
 .godaddy.com
 .godalming.ac.uk
+.godbolt.org
 .godfootsteps.org
 .godns.work
 .godoc.org
@@ -13389,6 +13396,7 @@
 .hespa.ac.uk
 .hestem.ac.uk
 .heswbusnet.ac.uk
+.hetzner-cloud.de
 .hetzner.cloud
 .hetzner.com
 .hetzner.company
@@ -17390,6 +17398,7 @@
 .lou.ac.uk
 .loucoll.ac.uk
 .loughborough.ac.uk
+.lovart.ai
 .love-sextoys.co.uk
 .love4porn.com
 .love6.tv
@@ -24482,6 +24491,7 @@
 .samsunghealth.com
 .samsungiotcloud.com
 .samsungknox.com
+.samsungosp.com
 .samsungqbe.com
 .samsungrs.com
 .sandisk.ae
@@ -32372,7 +32382,6 @@
 1password.drift.click
 adobeereg.com
 angle.com.tw
-anime-rule34-world.b-cdn.net
 api-p.videomarket.jp
 api.waqi.info
 apple.com.akadns.net
@@ -32467,11 +32476,9 @@ rsshub.rssforever.com
 rsshub.umzzz.com
 rsshub.woodland.cafe
 rsshub2.asailor.org
-servd-anthropic-website.b-cdn.net
 straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 tesla-cdn.thron.com
 time.windows.com
-tmdb-image-prod.b-cdn.net
 translomatic.foxfortmobile.com
 ut1-time.colorado.edu
 utcnist.colorado.edu

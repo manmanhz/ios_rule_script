@@ -1,18 +1,17 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-26 02:08:07
-# DOMAIN: 117
+# UPDATED: 2026-01-02 02:07:48
+# DOMAIN: 114
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32362
+# DOMAIN-SUFFIX: 32372
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32632
+# TOTAL: 32639
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
-DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,api-p.videomarket.jp
 DOMAIN,apple.com.akadns.net
 DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
@@ -103,11 +102,9 @@ DOMAIN,rsshub.rssforever.com
 DOMAIN,rsshub.umzzz.com
 DOMAIN,rsshub.woodland.cafe
 DOMAIN,rsshub2.asailor.org
-DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 DOMAIN,tesla-cdn.thron.com
 DOMAIN,time.windows.com
-DOMAIN,tmdb-image-prod.b-cdn.net
 DOMAIN,translomatic.foxfortmobile.com
 DOMAIN,ut1-time.colorado.edu
 DOMAIN,utcnist.colorado.edu
@@ -1317,7 +1314,6 @@ DOMAIN-SUFFIX,alivertsm.com
 DOMAIN-SUFFIX,alivevm.com
 DOMAIN-SUFFIX,alivevmax.com
 DOMAIN-SUFFIX,alivevue.com
-DOMAIN-SUFFIX,aljazeera.net
 DOMAIN-SUFFIX,all-sex-links.com
 DOMAIN-SUFFIX,all3dsexpics.com
 DOMAIN-SUFFIX,allcu.ac.uk
@@ -2134,6 +2130,7 @@ DOMAIN-SUFFIX,archiveshub.ac.uk
 DOMAIN-SUFFIX,archivx.to
 DOMAIN-SUFFIX,archlinux.org
 DOMAIN-SUFFIX,archlinuxarm.org
+DOMAIN-SUFFIX,archlinuxcn.org
 DOMAIN-SUFFIX,archway.ac.uk
 DOMAIN-SUFFIX,arcom.ac.uk
 DOMAIN-SUFFIX,arcraiders.com
@@ -2711,6 +2708,7 @@ DOMAIN-SUFFIX,azureplanetscale.net
 DOMAIN-SUFFIX,azureserviceprofiler.com
 DOMAIN-SUFFIX,azuresmartspaces.net
 DOMAIN-SUFFIX,azurestackvalidation.com
+DOMAIN-SUFFIX,b-cdn.net
 DOMAIN-SUFFIX,b-eroland.net
 DOMAIN-SUFFIX,b-ok.africa
 DOMAIN-SUFFIX,b-ok.asia
@@ -4597,6 +4595,8 @@ DOMAIN-SUFFIX,bumptop.net
 DOMAIN-SUFFIX,bumptop.org
 DOMAIN-SUFFIX,bumptunes.com
 DOMAIN-SUFFIX,bunka.go.jp
+DOMAIN-SUFFIX,bunny.net
+DOMAIN-SUFFIX,bunnycdn.com
 DOMAIN-SUFFIX,bunnylust.com
 DOMAIN-SUFFIX,burningcamel.com
 DOMAIN-SUFFIX,burnley.ac.uk
@@ -9961,6 +9961,7 @@ DOMAIN-SUFFIX,girlscanner.cc
 DOMAIN-SUFFIX,girlscv.com
 DOMAIN-SUFFIX,girlsdelta.com
 DOMAIN-SUFFIX,girlsfuck-tube.com
+DOMAIN-SUFFIX,girlsheaven-job.net
 DOMAIN-SUFFIX,girlsnudepic.com
 DOMAIN-SUFFIX,girlsofdesire.org
 DOMAIN-SUFFIX,girlsongirlstube.com
@@ -10105,6 +10106,7 @@ DOMAIN-SUFFIX,gobuildx.net
 DOMAIN-SUFFIX,gobuyonlinestore.net
 DOMAIN-SUFFIX,gockhuatviet.com
 DOMAIN-SUFFIX,godalming.ac.uk
+DOMAIN-SUFFIX,godbolt.org
 DOMAIN-SUFFIX,goduckgo.com
 DOMAIN-SUFFIX,goetec.ac.uk
 DOMAIN-SUFFIX,gofile.me
@@ -11096,6 +11098,7 @@ DOMAIN-SUFFIX,hesin.ac.uk
 DOMAIN-SUFFIX,hespa.ac.uk
 DOMAIN-SUFFIX,hestem.ac.uk
 DOMAIN-SUFFIX,heswbusnet.ac.uk
+DOMAIN-SUFFIX,hetzner-cloud.de
 DOMAIN-SUFFIX,hetzner.cloud
 DOMAIN-SUFFIX,hetzner.com
 DOMAIN-SUFFIX,hetzner.company
@@ -19980,6 +19983,7 @@ DOMAIN-SUFFIX,samsunggalaxyfriends.com
 DOMAIN-SUFFIX,samsunghealth.com
 DOMAIN-SUFFIX,samsungiotcloud.com
 DOMAIN-SUFFIX,samsungknox.com
+DOMAIN-SUFFIX,samsungosp.com
 DOMAIN-SUFFIX,samsungqbe.com
 DOMAIN-SUFFIX,samsungrs.com
 DOMAIN-SUFFIX,sandisk.ae
@@ -26242,6 +26246,7 @@ DOMAIN-SUFFIX,alicejapan.co.jp
 DOMAIN-SUFFIX,aliengu.com
 DOMAIN-SUFFIX,alive.bar
 DOMAIN-SUFFIX,aljazeera.com
+DOMAIN-SUFFIX,aljazeera.net
 DOMAIN-SUFFIX,alkasir.com
 DOMAIN-SUFFIX,all4mom.org
 DOMAIN-SUFFIX,allcoin.com
@@ -28145,6 +28150,7 @@ DOMAIN-SUFFIX,gfw.org.ua
 DOMAIN-SUFFIX,gfw.press
 DOMAIN-SUFFIX,gfw.report
 DOMAIN-SUFFIX,gfwatch.org
+DOMAIN-SUFFIX,gfwbao.com
 DOMAIN-SUFFIX,gfwlist.end
 DOMAIN-SUFFIX,gfwlist.start
 DOMAIN-SUFFIX,gfx.ms
@@ -29254,6 +29260,7 @@ DOMAIN-SUFFIX,lorenzetti.com.br
 DOMAIN-SUFFIX,lotsawahouse.org
 DOMAIN-SUFFIX,lotuslight.org.hk
 DOMAIN-SUFFIX,lotuslight.org.tw
+DOMAIN-SUFFIX,lovart.ai
 DOMAIN-SUFFIX,loved.hk
 DOMAIN-SUFFIX,lovetvshow.com
 DOMAIN-SUFFIX,lpsg.com

@@ -1,18 +1,17 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-12-26 02:08:07
-# DOMAIN: 117
+# UPDATED: 2026-01-02 02:07:48
+# DOMAIN: 114
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32362
+# DOMAIN-SUFFIX: 32372
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32632
+# TOTAL: 32639
 1password.drift.click
 adobeereg.com
 angle.com.tw
-anime-rule34-world.b-cdn.net
 api-p.videomarket.jp
 apple.com.akadns.net
 appleworldwidedeveloper.hb-api.omtrdc.net
@@ -103,11 +102,9 @@ rsshub.rssforever.com
 rsshub.umzzz.com
 rsshub.woodland.cafe
 rsshub2.asailor.org
-servd-anthropic-website.b-cdn.net
 straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 tesla-cdn.thron.com
 time.windows.com
-tmdb-image-prod.b-cdn.net
 translomatic.foxfortmobile.com
 ut1-time.colorado.edu
 utcnist.colorado.edu
@@ -1317,7 +1314,6 @@ login.microsoftonline.com
 +.alivevm.com
 +.alivevmax.com
 +.alivevue.com
-+.aljazeera.net
 +.all-sex-links.com
 +.all3dsexpics.com
 +.allcu.ac.uk
@@ -2134,6 +2130,7 @@ login.microsoftonline.com
 +.archivx.to
 +.archlinux.org
 +.archlinuxarm.org
++.archlinuxcn.org
 +.archway.ac.uk
 +.arcom.ac.uk
 +.arcraiders.com
@@ -2711,6 +2708,7 @@ login.microsoftonline.com
 +.azureserviceprofiler.com
 +.azuresmartspaces.net
 +.azurestackvalidation.com
++.b-cdn.net
 +.b-eroland.net
 +.b-ok.africa
 +.b-ok.asia
@@ -4597,6 +4595,8 @@ login.microsoftonline.com
 +.bumptop.org
 +.bumptunes.com
 +.bunka.go.jp
++.bunny.net
++.bunnycdn.com
 +.bunnylust.com
 +.burningcamel.com
 +.burnley.ac.uk
@@ -9961,6 +9961,7 @@ login.microsoftonline.com
 +.girlscv.com
 +.girlsdelta.com
 +.girlsfuck-tube.com
++.girlsheaven-job.net
 +.girlsnudepic.com
 +.girlsofdesire.org
 +.girlsongirlstube.com
@@ -10105,6 +10106,7 @@ login.microsoftonline.com
 +.gobuyonlinestore.net
 +.gockhuatviet.com
 +.godalming.ac.uk
++.godbolt.org
 +.goduckgo.com
 +.goetec.ac.uk
 +.gofile.me
@@ -11096,6 +11098,7 @@ login.microsoftonline.com
 +.hespa.ac.uk
 +.hestem.ac.uk
 +.heswbusnet.ac.uk
++.hetzner-cloud.de
 +.hetzner.cloud
 +.hetzner.com
 +.hetzner.company
@@ -19980,6 +19983,7 @@ login.microsoftonline.com
 +.samsunghealth.com
 +.samsungiotcloud.com
 +.samsungknox.com
++.samsungosp.com
 +.samsungqbe.com
 +.samsungrs.com
 +.sandisk.ae
@@ -26242,6 +26246,7 @@ login.microsoftonline.com
 +.aliengu.com
 +.alive.bar
 +.aljazeera.com
++.aljazeera.net
 +.alkasir.com
 +.all4mom.org
 +.allcoin.com
@@ -28145,6 +28150,7 @@ login.microsoftonline.com
 +.gfw.press
 +.gfw.report
 +.gfwatch.org
++.gfwbao.com
 +.gfwlist.end
 +.gfwlist.start
 +.gfx.ms
@@ -29254,6 +29260,7 @@ login.microsoftonline.com
 +.lotsawahouse.org
 +.lotuslight.org.hk
 +.lotuslight.org.tw
++.lovart.ai
 +.loved.hk
 +.lovetvshow.com
 +.lpsg.com
