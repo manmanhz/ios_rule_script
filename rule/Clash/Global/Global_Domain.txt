@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-01-10 02:08:06
+# UPDATED: 2026-01-16 02:11:53
 # DOMAIN: 114
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32557
+# DOMAIN-SUFFIX: 32591
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 32824
+# TOTAL: 32858
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -4578,6 +4578,7 @@ login.microsoftonline.com
 .brotli.org
 .brourou.com
 .browser.kagi.com
+.browser.run
 .brox-coll.ac.uk
 .broxtowe.ac.uk
 .bruford.ac.uk
@@ -5331,6 +5332,7 @@ login.microsoftonline.com
 .cfas.ac.uk
 .cfblob.com
 .cfd-tv.com
+.cfdata.org
 .cfdesign.com
 .cfl.re
 .cfldcol.ac.uk
@@ -5723,24 +5725,32 @@ login.microsoftonline.com
 .cloudflare-esni.com
 .cloudflare-gateway.com
 .cloudflare-quic.com
+.cloudflare-terms-of-service-abuse.com
+.cloudflare.dev
 .cloudflare.net
 .cloudflare.tv
 .cloudflareaccess.com
 .cloudflareapps.com
 .cloudflarebolt.com
+.cloudflarebrowser.com
+.cloudflarechallenge.com
 .cloudflareclient.com
+.cloudflarecp.com
 .cloudflareinsights.com
 .cloudflareok.com
 .cloudflarepartners.com
 .cloudflareportal.com
 .cloudflarepreview.com
 .cloudflareregistrar.com
+.cloudflareresearch.com
 .cloudflareresolve.com
 .cloudflaressl.com
 .cloudflarestorage.com
 .cloudflarestream.com
+.cloudflaresupport.com
 .cloudflaretest.com
 .cloudflarewarp.com
+.cloudflareworkers.com
 .cloudfront.com
 .cloudhealthtech.com
 .cloudimage.io
@@ -6891,6 +6901,7 @@ login.microsoftonline.com
 .dilcdn.com
 .dilstoncollege.ac.uk
 .dingchin.com.tw
+.dinopoloclub.com
 .dinotube.com
 .dippam.ac.uk
 .dirac.ac.uk
@@ -8073,6 +8084,7 @@ login.microsoftonline.com
 .enbank.ir
 .enbit.ac.uk
 .encoretvb.com
+.encryptedsni.com
 .encuentroscasualesoecuador.com
 .enema-porn.com
 .enema-videos.com
@@ -8351,6 +8363,7 @@ login.microsoftonline.com
 .espn.net
 .espncdn.com
 .espnqa.com
+.esports.gg
 .esposasymaridos.com
 .esrc.ac.uk
 .esrcfestival.ac.uk
@@ -9745,9 +9758,11 @@ login.microsoftonline.com
 .gamcore.com
 .game-platform.net
 .game-repack.site
+.gameapps.hk
 .gamebeforethegame.com
 .gamebiz.jp
 .gamebusiness.jp
+.gamefocus.co.kr
 .gamemeca.com
 .gameon-masters.com
 .gameover.com.hk
@@ -12100,6 +12115,7 @@ login.microsoftonline.com
 .ig.me
 .igaychat.com
 .igayporn.tv
+.igcc.jp
 .igcdn.com
 .iger.ac.uk
 .igetnaughty.com
@@ -12396,6 +12412,7 @@ login.microsoftonline.com
 .innovations-i.com
 .innovations.ac.uk
 .inporn.com
+.inquirer.net
 .inquisitionspostmortem.ac.uk
 .inshot.cc
 .inshot.com
@@ -14646,6 +14663,7 @@ login.microsoftonline.com
 .magnacartacollege.ac.uk
 .mahajantech.com
 .mahsc.ac.uk
+.maidonanews.jp
 .mail.com
 .maileoch.com
 .mailhealth.com
@@ -15733,6 +15751,7 @@ login.microsoftonline.com
 .mobileview.page
 .mobilevrxxx.com
 .mobilitymoodplace.ac.uk
+.mobimon.com.tw
 .mobmyanmar.com
 .mochajs.org
 .mocloudplus.com
@@ -15747,6 +15766,7 @@ login.microsoftonline.com
 .modperl.pl
 .modrinth.com
 .modular.im
+.moedigi.com
 .moeero-library.com
 .moefuns.co
 .moeimg.net
@@ -16218,6 +16238,7 @@ login.microsoftonline.com
 .myminiso.com
 .mymmode.com
 .mymusclevideo.com
+.mynavi.jp
 .mynescol.ac.uk
 .mynetname.net
 .mynike.com
@@ -16976,6 +16997,9 @@ login.microsoftonline.com
 .nikezoom.com
 .nikkan-gendai.com
 .nikkansports.com
+.nikke-de.com
+.nikke-fr.com
+.nikke-sea.com
 .nikkei-cnbc.co.jp
 .nikkei.co.jp
 .nikkei.jp
@@ -17168,6 +17192,7 @@ login.microsoftonline.com
 .nowe.hk
 .nowjav.com
 .nox.ac.uk
+.noxygames.com
 .nozomi.la
 .npcrdc.ac.uk
 .nphcardiac-research.ac.uk
@@ -17670,6 +17695,7 @@ login.microsoftonline.com
 .openapiplatform.com
 .openapiservice.com
 .openart.ai
+.openbook.org.tw
 .opencas.io
 .opencollective.com
 .opencreate.org
@@ -19451,6 +19477,8 @@ login.microsoftonline.com
 .ravm.tv
 .rawgithub.com
 .raxcdn.com
+.rayark.download
+.rayark.net
 .razer.com
 .razerofficial.com
 .razersupport.com
@@ -19710,6 +19738,7 @@ login.microsoftonline.com
 .repe21.com
 .repo.new
 .repositorynet.ac.uk
+.repotama.com
 .repsils.no
 .repsneakermall.com
 .repswing.com
@@ -20928,6 +20957,8 @@ login.microsoftonline.com
 .signalusers.org
 .sigops.org
 .sigopt.com
+.sih-db.com
+.sih.app
 .sihe.ac.uk
 .sikh-uni.ac.uk
 .sikiswap.com
@@ -21493,6 +21524,7 @@ login.microsoftonline.com
 .sqhwesternconsortium.ac.uk
 .sqlite.org
 .sqlserveronlinux.com
+.sqool.net
 .squ1.com
 .squadbusters.com
 .squarecapital.com
@@ -22161,6 +22193,7 @@ login.microsoftonline.com
 .tamesidecollege.ac.uk
 .tamilsexvideos.cc
 .tampabay.com
+.tampermonkey.net
 .tamtam.chat
 .tamworth.ac.uk
 .tamworthandlichfield.ac.uk
@@ -22775,6 +22808,7 @@ login.microsoftonline.com
 .toxin-up.sbs
 .toxinzoo.sbs
 .toy-cadcam.com
+.toy-people.com
 .toycadcam.com
 .toyobank.co.jp
 .tpc.ac.uk
