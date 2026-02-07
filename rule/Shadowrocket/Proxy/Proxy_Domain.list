@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-01-30 02:13:49
+# UPDATED: 2026-02-06 02:20:07
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6592
+# DOMAIN-SUFFIX: 6597
 # IP-CIDR: 97
 # USER-AGENT: 8
-# TOTAL: 6732
+# TOTAL: 6737
 .000webhost.com
 .030buy.com
 .0rz.tw
@@ -74,7 +74,6 @@
 .25u.com
 .2du5.com
 .2lipstube.com
-.2mdn.net
 .2shared.com
 .2waky.com
 .3-a.net
@@ -552,6 +551,7 @@
 .bbc.co.uk
 .bbc.com
 .bbc.in
+.bbc.pdn.tritondigital.com
 .bbcchinese.com
 .bbchat.tv
 .bbci.co.uk
@@ -2025,6 +2025,7 @@
 .freess.org
 .freessh.us
 .freetcp.com
+.freeterabox.com
 .freetibet.net
 .freetibet.org
 .freetibetanheroes.org
@@ -4754,6 +4755,7 @@
 .seesmic.com
 .seevpn.com
 .seezone.net
+.sef.org.tw
 .sehuatang.net
 .sehuatang.org
 .sejie.com
@@ -4858,6 +4860,7 @@
 .sijihuisuo.com
 .silkbook.com
 .silvergatebank.com
+.simianx.ai
 .simp.ly
 .simplecd.me
 .simplecd.org
@@ -5199,6 +5202,7 @@
 .tagwa.org.au
 .tagwalk.com
 .tahr.org.tw
+.tails.net
 .taipei.gov.tw
 .taipeisociety.org
 .taipeitimes.com
@@ -6448,6 +6452,7 @@
 .yesasia.com
 .yesasia.com.hk
 .yeyeclub.com
+.yfsp.tv
 .ygto.com
 .yhcw.net
 .yibada.com
