@@ -1,15 +1,15 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-02-12 02:22:33
-# DOMAIN: 117
+# UPDATED: 2026-02-20 02:20:21
+# DOMAIN: 118
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32655
+# DOMAIN-SUFFIX: 32798
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 32971
+# TOTAL: 33115
 .000webhost.com
 .01.org
 .02weqj32.com
@@ -289,6 +289,20 @@
 .2drdrebeats.com
 .2du5.com
 .2gayboys.com
+.2gis.ae
+.2gis.am
+.2gis.az
+.2gis.by
+.2gis.com
+.2gis.com.cy
+.2gis.cz
+.2gis.ge
+.2gis.kg
+.2gis.kz
+.2gis.ru
+.2gis.tj
+.2gis.ua
+.2gis.uz
 .2k.com
 .2kcoretech.online
 .2kct.onl
@@ -703,6 +717,7 @@
 .aave.com
 .aavs.xyz
 .abank.com.mm
+.abb.travel
 .abbeygatesfc.ac.uk
 .abbeygatesixthformcollege.ac.uk
 .abbywintersfree.com
@@ -801,6 +816,7 @@
 .accesstohighereducation.ac.uk
 .accesstomusic.ac.uk
 .accim.org
+.accomable.com
 .account-paypal.info
 .account-paypal.net
 .account-paypal.org
@@ -1274,6 +1290,84 @@
 .airasia.com
 .airav.cc
 .airav.wiki
+.airbnb.ae
+.airbnb.al
+.airbnb.am
+.airbnb.at
+.airbnb.az
+.airbnb.ba
+.airbnb.be
+.airbnb.ca
+.airbnb.cat
+.airbnb.ch
+.airbnb.cl
+.airbnb.co.cr
+.airbnb.co.id
+.airbnb.co.il
+.airbnb.co.in
+.airbnb.co.kr
+.airbnb.co.nz
+.airbnb.co.uk
+.airbnb.co.ve
+.airbnb.co.za
+.airbnb.com
+.airbnb.com.ar
+.airbnb.com.au
+.airbnb.com.bo
+.airbnb.com.br
+.airbnb.com.bz
+.airbnb.com.co
+.airbnb.com.ec
+.airbnb.com.ee
+.airbnb.com.gt
+.airbnb.com.hk
+.airbnb.com.hn
+.airbnb.com.hr
+.airbnb.com.kh
+.airbnb.com.mt
+.airbnb.com.my
+.airbnb.com.ni
+.airbnb.com.pa
+.airbnb.com.pe
+.airbnb.com.ph
+.airbnb.com.py
+.airbnb.com.ro
+.airbnb.com.sg
+.airbnb.com.sv
+.airbnb.com.tr
+.airbnb.com.tw
+.airbnb.com.ua
+.airbnb.com.vn
+.airbnb.cz
+.airbnb.de
+.airbnb.dk
+.airbnb.es
+.airbnb.fi
+.airbnb.fr
+.airbnb.gr
+.airbnb.gy
+.airbnb.hu
+.airbnb.ie
+.airbnb.is
+.airbnb.it
+.airbnb.jp
+.airbnb.la
+.airbnb.lt
+.airbnb.lu
+.airbnb.lv
+.airbnb.me
+.airbnb.mx
+.airbnb.nl
+.airbnb.no
+.airbnb.org
+.airbnb.pl
+.airbnb.pt
+.airbnb.rs
+.airbnb.ru
+.airbnb.se
+.airbnb.si
+.airbnb.tools
+.airbnb.travel
 .airconsole.com
 .aircrack-ng.org
 .aire-wharf-coll.ac.uk
@@ -2061,6 +2155,7 @@
 .apkplz.com
 .apkpure.com
 .apkpure.net
+.apkpures.xyz
 .aple.com
 .aplestore.com
 .aplleipods.com
@@ -2727,6 +2822,7 @@
 .attcollaborate.com
 .attdns.com
 .attdns.net
+.attestation.app
 .attexperts.com
 .attglobal.net
 .atthelimits.ac.uk
@@ -4162,6 +4258,7 @@
 .bitchmomporn.com
 .bitchute.com
 .bitcoin.org
+.bitcoincore.org
 .bitcointalk.org
 .bitcoinworld.com
 .bitdefender.com
@@ -12284,6 +12381,7 @@
 .gmcg.ac.uk
 .gmcyberfoundry.ac.uk
 .gmgard.com
+.gmgn.ai
 .gmhigher.ac.uk
 .gmhz.org
 .gmiddle.com
@@ -12802,6 +12900,19 @@
 .granulate.io
 .graph.org
 .graphenecentre.ac.uk
+.grapheneos.app
+.grapheneos.ca
+.grapheneos.com
+.grapheneos.dev
+.grapheneos.foundation
+.grapheneos.info
+.grapheneos.net
+.grapheneos.network
+.grapheneos.online
+.grapheneos.org
+.grapheneos.ovh
+.grapheneos.page
+.grapheneos.social
 .graphengine.io
 .graphis.ne.jp
 .graphql.org
@@ -19233,7 +19344,6 @@
 .mohu.ml
 .mohu.rocks
 .moidigital.ac.uk
-.moj.gov.tw
 .mojang.com
 .mojim.com
 .mol.ac.uk
@@ -19411,6 +19521,7 @@
 .mortein.com.pk
 .morteincam.com
 .mos.ru
+.mosavi.io
 .mostly.jp
 .mostpopularpornsites.com
 .mosucloud.site
@@ -19609,6 +19720,7 @@
 .murmur.tw
 .muryouav.net
 .musashinobank.co.jp
+.muscache.com
 .muscdn.com
 .musclegirlflix.com
 .museumofwriting.ac.uk
@@ -25030,6 +25142,7 @@
 .seacams.ac.uk
 .seagroup.com
 .seaha-cdt.ac.uk
+.seamlessupdate.app
 .seamonkey-project.org
 .seancody.com
 .seaofsolitude.com
@@ -25058,12 +25171,14 @@
 .secretubes.com
 .sectigo.com
 .secure-paypal.info
+.securecloudtransformation.com
 .secureharvests.ac.uk
 .securepaypal.info
 .secureservercdn.net
 .securetunnel.com
 .securityinabox.org
 .securitykiss.com
+.securitypreview.com
 .seda.ac.uk
 .sedc.ac.uk
 .sedg.ac.uk
@@ -25085,7 +25200,6 @@
 .seevic.ac.uk
 .seevpn.com
 .seezone.net
-.sef.org.tw
 .sefton-acl.ac.uk
 .sefton.ac.uk
 .sego8.cc
@@ -26625,6 +26739,7 @@
 .starfieldtech.com
 .starfishfx.com
 .starfox.com
+.stargazer-games.com
 .stark-verlag.ch
 .starlink.ac.uk
 .starott.com
@@ -26693,6 +26808,8 @@
 .steezylist.com
 .steganos.com
 .steganos.net
+.stellasora.global
+.stellasora.jp
 .stem.ac.uk
 .stemacademy.ac.uk
 .stemequals.ac.uk
@@ -27868,6 +27985,7 @@
 .threads.com
 .threads.net
 .threatchaos.com
+.threatlabz.com
 .thri.xxx
 .thrixxx.com
 .throughnightsfire.com
@@ -28123,6 +28241,7 @@
 .tomp3.cc
 .tomsguide.com
 .tomshardware.com
+.ton.org
 .tonec.com
 .tongil.or.kr
 .tonicmovies.com
@@ -28638,6 +28757,7 @@
 .twenty65.ac.uk
 .twerkingbutt.com
 .twftp.org
+.twgov.tw
 .twgreatdaily.com
 .twgreatnews.com
 .twhentai.com
@@ -29333,9 +29453,11 @@
 .valuegb.com
 .valvesoftware.com
 .vam.ac.uk
+.vamo.com
 .vamsas.ac.uk
 .van001.com
 .van698.com
+.vanadium.app
 .vancouverbmwretailers.ca
 .vanilla-jp.com
 .vanish.at
@@ -30350,12 +30472,14 @@
 .walker.ac.uk
 .wallet.com
 .walletconnect.com
+.walletconnect.org
 .wallhaven.cc
 .wallmama.com
 .wallornot.org
 .wallpapercasa.com
 .wallproxy.com
 .wallsttv.com
+.wallzhihu.com
 .walmart-content.com
 .walmart.com
 .walmart.pharmacy
@@ -30490,6 +30614,7 @@
 .web.dev
 .web.nebula-emby.com
 .web2project.net
+.web3modal.org
 .webappfieldguide.com
 .webbang.net
 .webcam-teen.net
@@ -32043,6 +32168,7 @@
 .ymhsf1.top
 .ync.ne.jp
 .ynoproject.net
+.yo-star.com
 .yo1health.com
 .yobit.net
 .yobt.com
@@ -32072,6 +32198,9 @@
 .yorkstonemasonrycove.ac.uk
 .yorozoonews.jp
 .yoshisnewisland.com
+.yostar-pictures.co.jp
+.yostar.co.jp
+.yostarplat.com
 .you-get.org
 .you.com
 .youassporn.com
@@ -32469,6 +32598,8 @@
 .zdnet.com.tw
 .zdnet.redvideo.io
 .zdusercontent.com
+.zdxbeta.net
+.zdxcloud.net
 .zee.com
 .zee5.com
 .zee5.in
@@ -32624,8 +32755,20 @@
 .zorrovpn.com
 .zotero.org
 .zozotown.com
+.zpagov.net
+.zpath.com
 .zpn.im
 .zqqpwz.com
+.zscaler.com
+.zscaler.jp
+.zscaler.net
+.zscalerbeta.net
+.zscalergov.net
+.zscalerone.net
+.zscalershift.com
+.zscalerthree.net
+.zscalertwo.net
+.zscloud.net
 .zsdxzk.com
 .zsh.org
 .zspeeder.me
@@ -32767,6 +32910,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 tesla-cdn.thron.com
 time.windows.com
 translomatic.foxfortmobile.com
+ubisoft.siteintercept.qualtrics.com
 ut1-time.colorado.edu
 utcnist.colorado.edu
 utcnist2.colorado.edu
