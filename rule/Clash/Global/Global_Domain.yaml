@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-14 02:13:36
+# UPDATED: 2026-03-20 02:20:29
 # DOMAIN: 119
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32911
+# DOMAIN-SUFFIX: 32920
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 33183
+# TOTAL: 33192
 payload:
   - '1password.drift.click'
   - 'adobeereg.com'
@@ -685,7 +685,6 @@ payload:
   - '+.aapl.tw'
   - '+.aaschool.ac.uk'
   - '+.aau.ac.uk'
-  - '+.aave.com'
   - '+.aavs.xyz'
   - '+.abank.com.mm'
   - '+.abb.travel'
@@ -6451,6 +6450,7 @@ payload:
   - '+.curvyerotic.com'
   - '+.cusp.ac.uk'
   - '+.cusplondon.ac.uk'
+  - '+.custhelp.com'
   - '+.custom-iphonecase.com'
   - '+.custombeatsbydrebuy.com'
   - '+.custombeatsdeals.com'
@@ -17310,6 +17310,7 @@ payload:
   - '+.nochubank.or.jp'
   - '+.nocn.ac.uk'
   - '+.nocs.ac.uk'
+  - '+.nodeget.com'
   - '+.nodeimage.com'
   - '+.nodejs.org'
   - '+.nodequality.com'
@@ -21736,6 +21737,7 @@ payload:
   - '+.spiceworksstatic.com'
   - '+.spicybigtits.com'
   - '+.spicystory.net'
+  - '+.spicywriter.com'
   - '+.spider.ac.uk'
   - '+.spiegel.de'
   - '+.spinesurgeons.ac.uk'
@@ -22936,6 +22938,11 @@ payload:
   - '+.tiktokv.eu'
   - '+.tiktokw.eu'
   - '+.tiktokw.us'
+  - '+.tilda.cc'
+  - '+.tilda.ru'
+  - '+.tilda.ws'
+  - '+.tildaapi.com'
+  - '+.tildacdn.com'
   - '+.tilehill.ac.uk'
   - '+.time.gov'
   - '+.time.nrc.ca'
@@ -25164,6 +25171,7 @@ payload:
   - '+.woolitecarpet.com'
   - '+.worc.ac.uk'
   - '+.worcester.ac.uk'
+  - '+.wordpress.net'
   - '+.wordpress.org'
   - '+.wordpress.tv'
   - '+.workandhome.ac.uk'
@@ -25359,7 +25367,6 @@ payload:
   - '+.xcum.com'
   - '+.xda-cdn.com'
   - '+.xdaddy.in'
-  - '+.xdaforums.com'
   - '+.xdaimages.com'
   - '+.xdh999.one'
   - '+.xdir.vip'
@@ -26679,6 +26686,7 @@ payload:
   - '+.9to5mac.com'
   - '+.a-normal-day.com'
   - '+.aamacau.com'
+  - '+.aave.com'
   - '+.abc.com'
   - '+.abc.net.au'
   - '+.abc.xyz'
@@ -32761,6 +32769,7 @@ payload:
   - '+.xclient.info'
   - '+.xcritic.com'
   - '+.xda-developers.com'
+  - '+.xdaforums.com'
   - '+.xeeno.com'
   - '+.xerotica.com'
   - '+.xfiles.to'
