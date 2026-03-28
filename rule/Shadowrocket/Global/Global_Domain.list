@@ -1,13 +1,13 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-20 02:20:30
+# UPDATED: 2026-03-28 02:20:45
 # DOMAIN: 119
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32920
+# DOMAIN-SUFFIX: 32950
 # IP-CIDR: 116
 # USER-AGENT: 46
-# TOTAL: 33237
+# TOTAL: 33267
 .000webhost.com
 .01.org
 .02weqj32.com
@@ -3848,6 +3848,7 @@
 .beeg.rest
 .beegfree.com
 .beejp.net
+.beeline.tv
 .beep.ac.uk
 .beepool.com
 .beepool.org
@@ -3954,6 +3955,7 @@
 .bestbuyus.com
 .bestcamsites.net
 .bestclouddrive.com
+.bestdori.com
 .besterpornos.com
 .bestescortgirls.nl
 .bestforchina.org
@@ -6603,6 +6605,7 @@
 .chuls.ac.uk
 .chuneo.xyz
 .chunja19.net
+.chunkbase.com
 .chuokoron.jp
 .chuporno.com
 .churchill.ac.uk
@@ -6616,6 +6619,7 @@
 .ci-en.jp
 .ci-en.net
 .cia.ac.uk
+.cia.gov
 .cias.ac.uk
 .ciattackers.com
 .cib.ac.uk
@@ -9898,6 +9902,7 @@
 .equalityhigher.ac.uk
 .equator.ac.uk
 .equinenow.com
+.equinox.io
 .equistudy.ac.uk
 .era.ac.uk
 .erabaru.net
@@ -10050,6 +10055,7 @@
 .esopworld.com
 .esp-scotland.ac.uk
 .esp32.com
+.esp8266.com
 .espa-headlines.ac.uk
 .espa.ac.uk
 .espadoldettol.com.ar
@@ -10061,6 +10067,7 @@
 .espnqa.com
 .esports.gg
 .esposasymaridos.com
+.espressif.com
 .esrc.ac.uk
 .esrcfestival.ac.uk
 .esrcmanchesterfest.ac.uk
@@ -18960,6 +18967,7 @@
 .minecraft-services.net
 .minecraft.net
 .minecraft.wiki
+.minecraftforge.net
 .minecraftservices.com
 .minecraftshop.com
 .mineofinfo.ac.uk
@@ -20130,6 +20138,7 @@
 .naln.ac.uk
 .nam.ac.uk
 .name.com
+.namemc.com
 .namemybeats.com
 .namethatporn.com
 .namethatpornad.com
@@ -20694,6 +20703,7 @@
 .nginx.org
 .nginxconfig.io
 .ngodupdongchung.com
+.ngrok-agent.com
 .ngrok-free.app
 .ngrok-free.dev
 .ngrok-free.pizza
@@ -21629,12 +21639,14 @@
 .okayfreedom.com
 .okazudouga.tokyo
 .okcdn.ru
+.okcoin.com
 .okex.com
 .okinawabank.co.jp
 .okk.tw
 .okkisokuho.com
 .okko.sport
 .okko.tv
+.oklink.com
 .okpool.me
 .okx-dns.com
 .okx-dns1.com
@@ -21834,6 +21846,7 @@
 .openlibrary.org
 .openmaps.org
 .openreality.com
+.openrec.tv
 .openresty.org
 .openreview.net
 .openrouter.ai
@@ -21878,6 +21891,7 @@
 .optica.org
 .opticore.com
 .opticsforthecloud.net
+.optifine.net
 .optima-cdt.ac.uk
 .optimumssl.com
 .opus-gaming.com
@@ -22064,8 +22078,15 @@
 .ozeex.com
 .ozodi.org
 .ozodlik.org
+.ozon.by
+.ozon.com
+.ozon.com.by
+.ozon.com.kz
+.ozon.kz
 .ozon.ru
+.ozon.tm
 .ozone.ru
+.ozonru.me
 .ozonusercontent.com
 .ozvoice.org
 .ozxw.com
@@ -23781,6 +23802,7 @@
 .qbmengmei6.mom
 .qbsc.ac.uk
 .qckprn.com
+.qcomgeo2.com
 .qctconnect.com
 .qdiehzz7.me
 .qdmomentum.com
@@ -23853,6 +23875,7 @@
 .quadraminstitute.ac.uk
 .quadrat.ac.uk
 .qualcomm-email.com
+.qualcomm-inc.com
 .qualcomm.co.id
 .qualcomm.co.in
 .qualcomm.co.jp
@@ -24820,6 +24843,7 @@
 .s-nbcnews.com
 .s-rewards.hk
 .s-xoom.com
+.s.rmimg.com
 .s.team
 .s1heng.com
 .s1s1s1.com
@@ -26578,6 +26602,7 @@
 .spideroak.com
 .spiderpool.com
 .spiegel.de
+.spigotmc.org
 .spike.com
 .spinesurgeons.ac.uk
 .spiritclubs.com
@@ -27683,6 +27708,8 @@
 .tel.ac.uk
 .telebay.com
 .telecomspace.com
+.telega.info
+.telega.me
 .telega.one
 .telegra.ph
 .telegram-cdn.org
@@ -31604,6 +31631,7 @@
 .xmoviesforyou.com
 .xn--096-4g6em5t.com
 .xn--11xs86f.icu
+.xn--1jqvh729avzfcy2d8ummib.com
 .xn--201-4g6em5t.com
 .xn--202-4g6em5t.com
 .xn--203-4g6em5t.com
@@ -31647,6 +31675,7 @@
 .xn--hhr917d3fecva.xyz
 .xn--hxtr4rozx.xn--czr694b
 .xn--i2ru8q2qg.com
+.xn--kcrv3utim32hx9f6qe.com
 .xn--kput3imi374g.xn--hxt814e
 .xn--m1abbbgjah.lol
 .xn--mts47c3w9b1qr.net
@@ -32795,6 +32824,7 @@
 .zi5.me
 .zibacity.com
 .ziddu.com
+.ziglang.org
 .zigzag.kr
 .zillionk.com
 .zim.vn

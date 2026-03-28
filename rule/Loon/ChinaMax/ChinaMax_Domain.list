@@ -1,15 +1,15 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-20 02:22:07
-# DOMAIN: 308
+# UPDATED: 2026-03-28 02:22:23
+# DOMAIN: 310
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 118166
+# DOMAIN-SUFFIX: 118164
 # IP-ASN: 1
-# IP-CIDR: 8293
-# IP-CIDR6: 4275
+# IP-CIDR: 8290
+# IP-CIDR6: 4276
 # USER-AGENT: 65
-# TOTAL: 131121
+# TOTAL: 131119
 .0.zone
 .00.net
 .000.link
@@ -12746,6 +12746,7 @@
 .anhuisjx.com
 .anhuisuya.com
 .anhuiwine.com
+.anhuiyun.com
 .anhuizk.com
 .ani-sh.com
 .aniccw.net
@@ -34590,13 +34591,11 @@
 .esoua.com
 .esound.vip
 .esouou.com
-.esp8266.com
 .espeedpost.com
 .esplus.club
 .espnlol.com
 .esports-console.com
 .esportsreg.com
-.espressif.com
 .esr.com
 .essaystar.com
 .essca.com
@@ -74856,7 +74855,6 @@
 .okki.com
 .okktee.com
 .oklaapp.com
-.oklink.com
 .oklinklink.com
 .oklpoi.com
 .okmao.com
@@ -118328,6 +118326,7 @@ icecast-ruvr.cdnvideo.ru
 images-cn-8.ssl-images-amazon.com
 images-cn.ssl-images-amazon.com
 ip.istatmenus.app
+izattime.qcomgeo2.com
 jpts.sinovision.net
 kcrw.streamguys1.com
 kjzz.streamguys1.com
@@ -118509,6 +118508,7 @@ www.szmgiptv.com
 www.yxssp.com
 www4-static.gog-statics.com
 xn--flw351e.com
+xtratime.qcomgeo2.com
 youku.cdn2-youku.com
 zb.dehua.tv
 zb.pzhgd.com

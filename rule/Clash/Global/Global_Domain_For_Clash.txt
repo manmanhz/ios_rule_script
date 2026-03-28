@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-20 02:20:29
+# UPDATED: 2026-03-28 02:20:44
 # DOMAIN: 119
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 32920
+# DOMAIN-SUFFIX: 32950
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 33192
+# TOTAL: 33222
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -3407,6 +3407,7 @@ login.microsoftonline.com
 +.beeg.rest
 +.beegfree.com
 +.beejp.net
++.beeline.tv
 +.beep.ac.uk
 +.bees.ac.uk
 +.beforeigners.com
@@ -3498,6 +3499,7 @@ login.microsoftonline.com
 +.bestbuyus.com
 +.bestcamsites.net
 +.bestclouddrive.com
++.bestdori.com
 +.besterpornos.com
 +.bestescortgirls.nl
 +.bestfreecams.club
@@ -5665,6 +5667,7 @@ login.microsoftonline.com
 +.chuls.ac.uk
 +.chuneo.xyz
 +.chunja19.net
++.chunkbase.com
 +.chuokoron.jp
 +.chuporno.com
 +.churchill.ac.uk
@@ -8364,6 +8367,7 @@ login.microsoftonline.com
 +.equal.ac.uk
 +.equalityhigher.ac.uk
 +.equator.ac.uk
++.equinox.io
 +.equistudy.ac.uk
 +.era.ac.uk
 +.erabaru.net
@@ -8499,6 +8503,7 @@ login.microsoftonline.com
 +.esopworld.com
 +.esp-scotland.ac.uk
 +.esp32.com
++.esp8266.com
 +.espa-headlines.ac.uk
 +.espa.ac.uk
 +.espadoldettol.com.ar
@@ -8510,6 +8515,7 @@ login.microsoftonline.com
 +.espnqa.com
 +.esports.gg
 +.esposasymaridos.com
++.espressif.com
 +.esrc.ac.uk
 +.esrcfestival.ac.uk
 +.esrcmanchesterfest.ac.uk
@@ -15605,6 +15611,7 @@ login.microsoftonline.com
 +.minecraft-services.net
 +.minecraft.net
 +.minecraft.wiki
++.minecraftforge.net
 +.minecraftservices.com
 +.minecraftshop.com
 +.mineofinfo.ac.uk
@@ -16556,6 +16563,7 @@ login.microsoftonline.com
 +.nakednews.com
 +.naln.ac.uk
 +.nam.ac.uk
++.namemc.com
 +.namemybeats.com
 +.namethatporn.com
 +.namethatpornad.com
@@ -17007,6 +17015,7 @@ login.microsoftonline.com
 +.nginx.org
 +.nginxconfig.io
 +.ngodupdongchung.com
++.ngrok-agent.com
 +.ngrok-free.app
 +.ngrok-free.dev
 +.ngrok-free.pizza
@@ -17939,6 +17948,7 @@ login.microsoftonline.com
 +.openlibrary.org
 +.openmaps.org
 +.openreality.com
++.openrec.tv
 +.openresty.org
 +.openreview.net
 +.openrouter.ai
@@ -17975,6 +17985,7 @@ login.microsoftonline.com
 +.optica.org
 +.opticore.com
 +.opticsforthecloud.net
++.optifine.net
 +.optima-cdt.ac.uk
 +.optimumssl.com
 +.opwall.ac.uk
@@ -18119,8 +18130,15 @@ login.microsoftonline.com
 +.ozeex.com
 +.ozodi.org
 +.ozodlik.org
++.ozon.by
++.ozon.com
++.ozon.com.by
++.ozon.com.kz
++.ozon.kz
 +.ozon.ru
++.ozon.tm
 +.ozone.ru
++.ozonru.me
 +.ozonusercontent.com
 +.p-cdn.us
 +.pa9pal.com
@@ -19503,6 +19521,7 @@ login.microsoftonline.com
 +.qbmengmei6.mom
 +.qbsc.ac.uk
 +.qckprn.com
++.qcomgeo2.com
 +.qctconnect.com
 +.qdiehzz7.me
 +.qdmomentum.com
@@ -19555,6 +19574,7 @@ login.microsoftonline.com
 +.quadraminstitute.ac.uk
 +.quadrat.ac.uk
 +.qualcomm-email.com
++.qualcomm-inc.com
 +.qualcomm.co.id
 +.qualcomm.co.in
 +.qualcomm.co.jp
@@ -21739,6 +21759,7 @@ login.microsoftonline.com
 +.spicywriter.com
 +.spider.ac.uk
 +.spiegel.de
++.spigotmc.org
 +.spinesurgeons.ac.uk
 +.spiritclubs.com
 +.spiritofecstasy.com
@@ -22588,6 +22609,8 @@ login.microsoftonline.com
 +.tejaratbank.ir
 +.tel.ac.uk
 +.telebay.com
++.telega.info
++.telega.me
 +.telegram-cdn.org
 +.telegram-porn.com
 +.telegram.dog
@@ -26440,6 +26463,7 @@ login.microsoftonline.com
 +.zhuichaguoji.org
 +.zhuzhushipin-app.com
 +.zibacity.com
++.ziglang.org
 +.zigzag.kr
 +.zind.cloud
 +.zingtruyen.net
@@ -27595,6 +27619,7 @@ login.microsoftonline.com
 +.churchinhongkong.org
 +.chushigangdrug.ch
 +.ci-en.jp
++.cia.gov
 +.cici.com
 +.ciciai.com
 +.cienen.com
@@ -30495,8 +30520,10 @@ login.microsoftonline.com
 +.oizoblog.com
 +.ok.ru
 +.okayfreedom.com
++.okcoin.com
 +.okex.com
 +.okk.tw
++.oklink.com
 +.okpool.me
 +.okx.com
 +.old-cat.net
@@ -31143,6 +31170,7 @@ login.microsoftonline.com
 +.s-cute.com
 +.s-dragon.org
 +.s-nbcnews.com
++.s.rmimg.com
 +.s.team
 +.s1heng.com
 +.s1s1s1.com
@@ -32811,12 +32839,14 @@ login.microsoftonline.com
 +.xml-training-guide.com
 +.xmovies.com
 +.xn--11xs86f.icu
++.xn--1jqvh729avzfcy2d8ummib.com
 +.xn--4gq171p.com
 +.xn--90wwvt03e.com
 +.xn--9iqy04a7fi01l.com
 +.xn--9pr62r24a.com
 +.xn--czq75pvv1aj5c.org
 +.xn--i2ru8q2qg.com
++.xn--kcrv3utim32hx9f6qe.com
 +.xn--ngstr-lra8j.com
 +.xn--noss43i.com
 +.xn--oiq.cc

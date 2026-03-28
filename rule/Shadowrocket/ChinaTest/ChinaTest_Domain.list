@@ -1,10 +1,10 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-10 02:19:15
-# DOMAIN: 132
+# UPDATED: 2026-03-28 02:21:31
+# DOMAIN: 134
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 118171
+# DOMAIN-SUFFIX: 118169
 # IP-CIDR: 15
 # USER-AGENT: 31
 # TOTAL: 118358
@@ -12875,6 +12875,7 @@
 .anhuisjx.com
 .anhuisuya.com
 .anhuiwine.com
+.anhuiyun.com
 .anhuizk.com
 .ani-sh.com
 .aniccw.net
@@ -34720,13 +34721,11 @@
 .esoua.com
 .esound.vip
 .esouou.com
-.esp8266.com
 .espeedpost.com
 .esplus.club
 .espnlol.com
 .esports-console.com
 .esportsreg.com
-.espressif.com
 .esr.com
 .essaystar.com
 .essca.com
@@ -74820,7 +74819,6 @@
 .okki.com
 .okktee.com
 .oklaapp.com
-.oklink.com
 .oklinklink.com
 .okmao.com
 .okmart.com
@@ -118287,6 +118285,7 @@ i.pki.goog
 images-cn-8.ssl-images-amazon.com
 images-cn.ssl-images-amazon.com
 ip.istatmenus.app
+izattime.qcomgeo2.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-crypto-wifiplus.geoksn.kaspersky.com
 ksn-dc1-cert.geoksn.kaspersky.com
@@ -118352,3 +118351,4 @@ www.recaptcha.net
 www.yxssp.com
 www4-static.gog-statics.com
 xn--flw351e.com
+xtratime.qcomgeo2.com

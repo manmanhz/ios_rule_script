@@ -1,10 +1,10 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-03-10 02:19:10
-# HOST: 132
+# UPDATED: 2026-03-28 02:21:25
+# HOST: 134
 # HOST-KEYWORD: 9
-# HOST-SUFFIX: 118171
+# HOST-SUFFIX: 118169
 # HOST-WILDCARD: 1
 # IP-CIDR: 11
 # IP6-CIDR: 4
@@ -85,6 +85,7 @@ HOST,gstatic-cn.com,ChinaTest
 HOST,gtm.oasisfeng.com,ChinaTest
 HOST,i.pki.goog,ChinaTest
 HOST,images-cn-8.ssl-images-amazon.com,ChinaTest
+HOST,izattime.qcomgeo2.com,ChinaTest
 HOST,ksn-cinfo.geoksn.kaspersky.com,ChinaTest
 HOST,ksn-crypto-wifiplus.geoksn.kaspersky.com,ChinaTest
 HOST,ksn-dc1-cert.geoksn.kaspersky.com,ChinaTest
@@ -142,6 +143,7 @@ HOST,www.pxcc.com,ChinaTest
 HOST,www.recaptcha.net,ChinaTest
 HOST,www4-static.gog-statics.com,ChinaTest
 HOST,xn--flw351e.com,ChinaTest
+HOST,xtratime.qcomgeo2.com,ChinaTest
 HOST-SUFFIX,00cdn.com,ChinaTest
 HOST-SUFFIX,0123456789.com,ChinaTest
 HOST-SUFFIX,0379home.com,ChinaTest
@@ -16239,6 +16241,7 @@ HOST-SUFFIX,anhuiry.com,ChinaTest
 HOST-SUFFIX,anhuisjx.com,ChinaTest
 HOST-SUFFIX,anhuisuya.com,ChinaTest
 HOST-SUFFIX,anhuiwine.com,ChinaTest
+HOST-SUFFIX,anhuiyun.com,ChinaTest
 HOST-SUFFIX,anhuizk.com,ChinaTest
 HOST-SUFFIX,ani-sh.com,ChinaTest
 HOST-SUFFIX,aniccw.net,ChinaTest
@@ -37248,13 +37251,11 @@ HOST-SUFFIX,esou.biz,ChinaTest
 HOST-SUFFIX,esoua.com,ChinaTest
 HOST-SUFFIX,esound.vip,ChinaTest
 HOST-SUFFIX,esouou.com,ChinaTest
-HOST-SUFFIX,esp8266.com,ChinaTest
 HOST-SUFFIX,espeedpost.com,ChinaTest
 HOST-SUFFIX,esplus.club,ChinaTest
 HOST-SUFFIX,espnlol.com,ChinaTest
 HOST-SUFFIX,esports-console.com,ChinaTest
 HOST-SUFFIX,esportsreg.com,ChinaTest
-HOST-SUFFIX,espressif.com,ChinaTest
 HOST-SUFFIX,esr.com,ChinaTest
 HOST-SUFFIX,essaystar.com,ChinaTest
 HOST-SUFFIX,essca.com,ChinaTest
@@ -76172,7 +76173,6 @@ HOST-SUFFIX,okk123.com,ChinaTest
 HOST-SUFFIX,okki.com,ChinaTest
 HOST-SUFFIX,okktee.com,ChinaTest
 HOST-SUFFIX,oklaapp.com,ChinaTest
-HOST-SUFFIX,oklink.com,ChinaTest
 HOST-SUFFIX,oklinklink.com,ChinaTest
 HOST-SUFFIX,okmao.com,ChinaTest
 HOST-SUFFIX,okmart.com,ChinaTest

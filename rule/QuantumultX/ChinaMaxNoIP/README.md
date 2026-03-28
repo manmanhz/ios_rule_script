@@ -15,14 +15,14 @@ ChinaMax排除相关IP规则版本
 
 ## 规则统计
 
-最后更新时间：2026-03-20 02:22:40
+最后更新时间：2026-03-28 02:22:56
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| HOST | 307  | 
+| HOST | 309  | 
 | HOST-KEYWORD | 13  | 
-| HOST-SUFFIX | 117831  | 
+| HOST-SUFFIX | 117829  | 
 | HOST-WILDCARD | 1  | 
 | USER-AGENT | 65  | 
 | TOTAL | 118217  | 
