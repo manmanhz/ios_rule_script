@@ -1,14 +1,15 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-04-04 02:16:52
-# DOMAIN: 311
+# UPDATED: 2026-04-10 02:25:26
+# DOMAIN: 313
 # DOMAIN-KEYWORD: 13
 # DOMAIN-SUFFIX: 118260
-# IP-CIDR: 8191
-# IP-CIDR6: 4051
+# IP-ASN: 1
+# IP-CIDR: 8196
+# IP-CIDR6: 4055
 # PROCESS-NAME: 14
-# TOTAL: 130841
+# TOTAL: 130852
 payload:
   - DOMAIN-KEYWORD,.tmall.com
   - DOMAIN-KEYWORD,alicdn
