@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-05-08 02:36:46
+# UPDATED: 2026-05-16 02:35:13
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6631
+# DOMAIN-SUFFIX: 6635
 # IP-CIDR: 93
 # IP-CIDR6: 4
-# TOTAL: 6763
+# TOTAL: 6767
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -1091,6 +1091,7 @@ voice.telephony.goog
 +.chinman.net
 +.chithu.org
 +.chobit.cc
++.chonglangtv.org
 +.chosun.com
 +.chrdnet.com
 +.christianfreedom.org
@@ -1378,6 +1379,7 @@ voice.telephony.goog
 +.dashlane.com
 +.dastrassi.org
 +.data-vocabulary.org
++.data18.com
 +.datalabour.com
 +.daum.net
 +.david-kilgour.com
@@ -1560,6 +1562,7 @@ voice.telephony.goog
 +.dsmtp.com
 +.dssott.com
 +.dstk.dk
++.dt18.com
 +.dtdns.net
 +.dtiblog.com
 +.dtic.mil
@@ -5839,6 +5842,7 @@ voice.telephony.goog
 +.ultravpn.fr
 +.ultraxs.com
 +.ulyssesapp.com
++.umap.openstreetmap.fr
 +.umich.edu
 +.unblock-us.com
 +.unblockdmm.com
