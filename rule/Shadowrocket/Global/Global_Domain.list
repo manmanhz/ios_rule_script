@@ -1,13 +1,13 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-05-16 02:34:52
+# UPDATED: 2026-05-22 02:40:01
 # DOMAIN: 124
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 33992
+# DOMAIN-SUFFIX: 34028
 # IP-CIDR: 116
 # USER-AGENT: 46
-# TOTAL: 34314
+# TOTAL: 34350
 .000webhost.com
 .01.org
 .02weqj32.com
@@ -480,6 +480,7 @@
 .55dndn.com
 .567321.online
 .568xe.com
+.573.jp
 .58avgo.com
 .592r.com
 .59mvmv.com
@@ -1554,6 +1555,7 @@
 .alexanderlondoncollege.ac.uk
 .alexanderstreet.com
 .alexlur.org
+.alfa.me
 .alfabank.oavdo.amc
 .alfabank.ru
 .alfabank.st
@@ -2618,6 +2620,7 @@
 .archivx.to
 .archlinux.de
 .archlinux.org
+.archlinux.page
 .archlinuxarm.org
 .archlinuxcn.org
 .archway.ac.uk
@@ -12047,6 +12050,7 @@
 .g-tun.com
 .g-tvapp.com
 .g-xxxhub.com
+.g.ai
 .g.co
 .g.dev
 .g.kfd.me
@@ -14520,7 +14524,6 @@
 .hpcodewarsbcn.com
 .hpcomputers.com
 .hpcomputerservices.com
-.hpconnected.com
 .hpconnected.net
 .hpconnected.org
 .hpconnected.us
@@ -17156,6 +17159,7 @@
 .keytransparency.foo
 .keytransparency.org
 .kfs.io
+.kgisystems.com
 .kgslb.com
 .kgv.ac.uk
 .khabdha.org
@@ -17277,6 +17281,7 @@
 .kissjav.li
 .kitakyushubank.co.jp
 .kitts.ac.uk
+.kiwi.jp
 .kiwi.kz
 .kiwibrowser.com
 .kiyobank.co.jp
@@ -17329,6 +17334,19 @@
 .konachan.com
 .konachan.net
 .konachan.wjcodes.com
+.konami-igaming.online
+.konami.co.jp
+.konami.com
+.konami.net
+.konami.org
+.konamicrossmedia.com
+.konamigaming.com
+.konamigaming.net
+.konamigaming.online
+.konamionline.com
+.konamiopen.jp
+.konamisportsclub.jp
+.konamistyle.jp
 .kone.com
 .koolsolutions.com
 .koornk.com
@@ -17689,6 +17707,7 @@
 .lenporno.net
 .lenporno.red
 .lenwhite.com
+.leonardo.ai
 .leorockwell.com
 .leos-scot.ac.uk
 .lepoint.fr
@@ -20109,10 +20128,12 @@
 .moxing.news
 .moystoys.com
 .mozgcp.net
+.mozilla.ai
 .mozilla.com
 .mozilla.community
 .mozilla.net
 .mozilla.org
+.mozillafoundation.org
 .moztw.org
 .mp.world
 .mp3buscador.com
@@ -20575,6 +20596,7 @@
 .myyoungwifeisnude.com
 .myz.info
 .mzed.com
+.mzl.la
 .n15zev3w.shop
 .n26.com
 .n3ro.lol
@@ -24650,6 +24672,7 @@
 .rapbull.net
 .rapefilms.net
 .rapetube.me
+.raphael.app
 .rapid.ac.uk
 .rapidgator.net
 .rapidmoviez.com
@@ -25034,6 +25057,8 @@
 .researchkit.tv
 .researchscotland.ac.uk
 .researchwales.ac.uk
+.resella.jp
+.resellablue.com
 .resilient-decarbonised-energy-cdt.ac.uk
 .resilient-decarbonised-energy-dtc.ac.uk
 .resilio.com
@@ -25124,6 +25149,7 @@
 .rightbtc.com
 .rightster.com
 .rigpa.org
+.rigums.xyz
 .riku.me
 .rileyguide.com
 .rime.im
@@ -25399,6 +25425,7 @@
 .rukor.org
 .rul.ac.uk
 .rulaisc-tv.buzz
+.rule34.us
 .rule34.world
 .rule34.xxx
 .rule34.xyz
@@ -26324,6 +26351,7 @@
 .sgwritings.com
 .sgzhan.com
 .sh-xuxingda.com
+.sh83.xyz
 .shadbase.com
 .shadeyouvpn.com
 .shadow.ma
@@ -26572,6 +26600,7 @@
 .side.ac.uk
 .sidelinesnews.com
 .sidelinessportseatery.com
+.sider.ai
 .sie.ac.uk
 .siege-amazon.com
 .sierrafriendsoftibet.org
@@ -27160,6 +27189,7 @@
 .sothebys-institute.ac.uk
 .soton.ac.uk
 .sots.ac.uk
+.sotwe.com
 .sou-tong.org
 .soubory.com
 .souka.xyz
@@ -28292,6 +28322,7 @@
 .tapbots.com
 .tapbots.net
 .tapestry.ac.uk
+.tapnow.ai
 .taptap.io
 .taptap.tw
 .taptotokyo.com
@@ -28388,6 +28419,8 @@
 .teamamericany.com
 .teamneedforspeed.com
 .teamskeet.com
+.teamspeak-services.com
+.teamspeak.com
 .teamviewer.com
 .teamviewer.us
 .teamwork.ac.uk
@@ -31457,6 +31490,7 @@
 .vultr.com
 .vultryhw.com
 .vuvuzela.io
+.vv1865.com
 .vxnbbrs.xyz
 .vxxsred.xyz
 .vyprvpn.com
@@ -33711,6 +33745,7 @@
 .yuanzhengtang.org
 .yuenuge113.xyz
 .yuenuge18.cc
+.yugioh-card.com
 .yulghun.com
 .yunchao.net
 .yunlaopo.cc
@@ -33836,6 +33871,7 @@
 .zhangboli.net
 .zhangboz1.xyz
 .zhangtianliang.com
+.zhangzhehan.net
 .zhanlve.org
 .zhenghui.org
 .zhengjian.org
