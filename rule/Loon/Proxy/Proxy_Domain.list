@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-05-22 02:40:22
+# UPDATED: 2026-05-30 02:54:37
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6643
+# DOMAIN-SUFFIX: 6648
 # IP-CIDR: 93
 # IP-CIDR6: 4
 # USER-AGENT: 8
-# TOTAL: 6783
+# TOTAL: 6788
 .000webhost.com
 .030buy.com
 .0rz.tw
@@ -70,6 +70,7 @@
 .228.net.tw
 .233abc.com
 .233v2.com
+.24hbook.com
 .24hrs.ca
 .24smile.org
 .25u.com
@@ -1533,6 +1534,7 @@
 .doujincafe.com
 .dowei.org
 .dowjones.com
+.dowjones.io
 .download.dappcdn.com
 .dphk.org
 .dpool.top
@@ -3435,6 +3437,7 @@
 .marxist.com
 .marxist.net
 .marxists.org
+.mas.to
 .mash.to
 .mashable.com
 .maskedip.com
@@ -3663,6 +3666,7 @@
 .movements.org
 .moves-export.com
 .moviefap.com
+.mozilla.ai
 .mozilla.org
 .moztw.org
 .mp3buscador.com
@@ -3818,6 +3822,7 @@
 .ned.org
 .nekoslovakia.net
 .neo-miracle.com
+.neodb.social
 .neoforged.net
 .neowin.net
 .nephobox.com

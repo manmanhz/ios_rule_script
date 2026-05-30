@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-05-22 02:40:01
+# UPDATED: 2026-05-30 02:54:16
 # DOMAIN: 124
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34028
+# DOMAIN-SUFFIX: 34068
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 34305
+# TOTAL: 34345
 DOMAIN,1password.drift.click
 DOMAIN,adobeereg.com
 DOMAIN,angle.com.tw
@@ -7566,7 +7566,6 @@ DOMAIN-SUFFIX,douyintt10.me
 DOMAIN-SUFFIX,douzinnsi-eromannga.com
 DOMAIN-SUFFIX,dovercollege.ac.uk
 DOMAIN-SUFFIX,dovertechnicalcollege.ac.uk
-DOMAIN-SUFFIX,dowjones.io
 DOMAIN-SUFFIX,dowjoneson.com
 DOMAIN-SUFFIX,download.com
 DOMAIN-SUFFIX,download.qatp1.net
@@ -7882,6 +7881,7 @@ DOMAIN-SUFFIX,e-szigno.hu
 DOMAIN-SUFFIX,e-tugra.com
 DOMAIN-SUFFIX,e3an.ac.uk
 DOMAIN-SUFFIX,e5.sk
+DOMAIN-SUFFIX,e53w.com
 DOMAIN-SUFFIX,ea-anz-press.com
 DOMAIN-SUFFIX,ea.com
 DOMAIN-SUFFIX,eaaccess.com
@@ -8295,6 +8295,7 @@ DOMAIN-SUFFIX,electronicarts.fr
 DOMAIN-SUFFIX,electronicsignature.ru
 DOMAIN-SUFFIX,electronjs.org
 DOMAIN-SUFFIX,element.io
+DOMAIN-SUFFIX,elementary.io
 DOMAIN-SUFFIX,elephantlist.com
 DOMAIN-SUFFIX,elephantsdream.org
 DOMAIN-SUFFIX,elephanttube.com
@@ -10618,6 +10619,7 @@ DOMAIN-SUFFIX,gnai-dh.sbs
 DOMAIN-SUFFIX,gnailapp.sbs
 DOMAIN-SUFFIX,gnatwork.ac.uk
 DOMAIN-SUFFIX,gnom-cham.com
+DOMAIN-SUFFIX,gnome.org
 DOMAIN-SUFFIX,gnu.org
 DOMAIN-SUFFIX,gnzi.xyz
 DOMAIN-SUFFIX,gnzi1.top
@@ -11509,6 +11511,7 @@ DOMAIN-SUFFIX,heise360182.buzz
 DOMAIN-SUFFIX,helf.ac.uk
 DOMAIN-SUFFIX,hellofuture.ac.uk
 DOMAIN-SUFFIX,hellokittybeats.com
+DOMAIN-SUFFIX,hellomoto.com
 DOMAIN-SUFFIX,hellosmartbook.com
 DOMAIN-SUFFIX,hellporno.com
 DOMAIN-SUFFIX,hellven.net
@@ -14164,6 +14167,7 @@ DOMAIN-SUFFIX,kcl.ac.uk
 DOMAIN-SUFFIX,kclwave.ac.uk
 DOMAIN-SUFFIX,kcollege.ac.uk
 DOMAIN-SUFFIX,kcqsw-na.sbs
+DOMAIN-SUFFIX,kde.org
 DOMAIN-SUFFIX,kdfuli.com
 DOMAIN-SUFFIX,kdy202312.shop
 DOMAIN-SUFFIX,ke-westyorkshire.ac.uk
@@ -15165,6 +15169,7 @@ DOMAIN-SUFFIX,lwms.ac.uk
 DOMAIN-SUFFIX,lww-cetl.ac.uk
 DOMAIN-SUFFIX,lwwcn.buzz
 DOMAIN-SUFFIX,lwwcn.xyz
+DOMAIN-SUFFIX,lxqt-project.org
 DOMAIN-SUFFIX,lxxlxx.com
 DOMAIN-SUFFIX,ly.gov.tw
 DOMAIN-SUFFIX,lyellcentre.ac.uk
@@ -15574,6 +15579,7 @@ DOMAIN-SUFFIX,masturbate2gether.com
 DOMAIN-SUFFIX,mat6tube.com
 DOMAIN-SUFFIX,match.ac.uk
 DOMAIN-SUFFIX,matchmover.com
+DOMAIN-SUFFIX,mate-desktop.org
 DOMAIN-SUFFIX,materials.ac.uk
 DOMAIN-SUFFIX,materialsnexus.ac.uk
 DOMAIN-SUFFIX,mathcentre.ac.uk
@@ -16000,6 +16006,7 @@ DOMAIN-SUFFIX,middlesex.ac.uk
 DOMAIN-SUFFIX,midentsolutions.com
 DOMAIN-SUFFIX,midfife.ac.uk
 DOMAIN-SUFFIX,midhurst.ac.uk
+DOMAIN-SUFFIX,midjourney.com
 DOMAIN-SUFFIX,midkent.ac.uk
 DOMAIN-SUFFIX,midlands3cities.ac.uk
 DOMAIN-SUFFIX,midlands4cities.ac.uk
@@ -16612,7 +16619,31 @@ DOMAIN-SUFFIX,mostpopularpornsites.com
 DOMAIN-SUFFIX,motherwell.ac.uk
 DOMAIN-SUFFIX,motiongraphicsandmore.com
 DOMAIN-SUFFIX,motionpictureser.com
+DOMAIN-SUFFIX,moto.com
 DOMAIN-SUFFIX,motolia.com
+DOMAIN-SUFFIX,motorola.ca
+DOMAIN-SUFFIX,motorola.cl
+DOMAIN-SUFFIX,motorola.co
+DOMAIN-SUFFIX,motorola.co.id
+DOMAIN-SUFFIX,motorola.co.jp
+DOMAIN-SUFFIX,motorola.co.th
+DOMAIN-SUFFIX,motorola.co.uk
+DOMAIN-SUFFIX,motorola.com
+DOMAIN-SUFFIX,motorola.com.au
+DOMAIN-SUFFIX,motorola.com.co
+DOMAIN-SUFFIX,motorola.com.pe
+DOMAIN-SUFFIX,motorola.com.pr
+DOMAIN-SUFFIX,motorola.de
+DOMAIN-SUFFIX,motorola.es
+DOMAIN-SUFFIX,motorola.fr
+DOMAIN-SUFFIX,motorola.gr
+DOMAIN-SUFFIX,motorola.in
+DOMAIN-SUFFIX,motorola.it
+DOMAIN-SUFFIX,motorola.net
+DOMAIN-SUFFIX,motorola.vn
+DOMAIN-SUFFIX,motorolacareers.com
+DOMAIN-SUFFIX,motorolanews.com
+DOMAIN-SUFFIX,motorolasolutions.com
 DOMAIN-SUFFIX,motorshowblog.com
 DOMAIN-SUFFIX,mottainai.info
 DOMAIN-SUFFIX,moulton.ac.uk
@@ -16645,7 +16676,6 @@ DOMAIN-SUFFIX,moxing.mobi
 DOMAIN-SUFFIX,moxing.news
 DOMAIN-SUFFIX,moystoys.com
 DOMAIN-SUFFIX,mozgcp.net
-DOMAIN-SUFFIX,mozilla.ai
 DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,mozilla.community
 DOMAIN-SUFFIX,mozilla.net
@@ -19281,6 +19311,7 @@ DOMAIN-SUFFIX,plannotator.ai
 DOMAIN-SUFFIX,plansondemand.com
 DOMAIN-SUFFIX,plant-phenomics.ac.uk
 DOMAIN-SUFFIX,plantsvszombies2.com
+DOMAIN-SUFFIX,plasma-mobile.org
 DOMAIN-SUFFIX,plasticlabs.com
 DOMAIN-SUFFIX,plastics-cadcam.com
 DOMAIN-SUFFIX,platiecom.ru
@@ -20102,6 +20133,7 @@ DOMAIN-SUFFIX,qattdh6.top
 DOMAIN-SUFFIX,qbmengmei6.mom
 DOMAIN-SUFFIX,qbsc.ac.uk
 DOMAIN-SUFFIX,qckprn.com
+DOMAIN-SUFFIX,qcmod.xyz
 DOMAIN-SUFFIX,qcomgeo2.com
 DOMAIN-SUFFIX,qctconnect.com
 DOMAIN-SUFFIX,qdiehzz7.me
@@ -23151,6 +23183,7 @@ DOMAIN-SUFFIX,synsym.ac.uk
 DOMAIN-SUFFIX,syntheticbiology.ac.uk
 DOMAIN-SUFFIX,sysinternals.com
 DOMAIN-SUFFIX,sysmic.ac.uk
+DOMAIN-SUFFIX,system76.com
 DOMAIN-SUFFIX,systemicrisk.ac.uk
 DOMAIN-SUFFIX,syzbj36.xyz
 DOMAIN-SUFFIX,szabadeuropa.hu
@@ -26365,6 +26398,7 @@ DOMAIN-SUFFIX,xemales.com
 DOMAIN-SUFFIX,xenoblade.com
 DOMAIN-SUFFIX,xeon.com
 DOMAIN-SUFFIX,xfantazy.com
+DOMAIN-SUFFIX,xfce.org
 DOMAIN-SUFFIX,xfemaledom.com
 DOMAIN-SUFFIX,xfockers.com
 DOMAIN-SUFFIX,xfreehd.com
@@ -26399,6 +26433,7 @@ DOMAIN-SUFFIX,xiaoou.tv
 DOMAIN-SUFFIX,xiaoshuobb.life
 DOMAIN-SUFFIX,xiaoyaoge.xyz
 DOMAIN-SUFFIX,xie56.xyz
+DOMAIN-SUFFIX,xin21.xyz
 DOMAIN-SUFFIX,xinaia-av.buzz
 DOMAIN-SUFFIX,xindelu.com
 DOMAIN-SUFFIX,xinfhw.com
@@ -27649,6 +27684,7 @@ DOMAIN-SUFFIX,21sextury.com
 DOMAIN-SUFFIX,228.net.tw
 DOMAIN-SUFFIX,233abc.com
 DOMAIN-SUFFIX,233v2.com
+DOMAIN-SUFFIX,24hbook.com
 DOMAIN-SUFFIX,24hrs.ca
 DOMAIN-SUFFIX,24smile.org
 DOMAIN-SUFFIX,25u.com
@@ -29080,6 +29116,7 @@ DOMAIN-SUFFIX,douhokanko.net
 DOMAIN-SUFFIX,doujincafe.com
 DOMAIN-SUFFIX,dowei.org
 DOMAIN-SUFFIX,dowjones.com
+DOMAIN-SUFFIX,dowjones.io
 DOMAIN-SUFFIX,download.dappcdn.com
 DOMAIN-SUFFIX,dphk.org
 DOMAIN-SUFFIX,dpool.top
@@ -30969,6 +31006,7 @@ DOMAIN-SUFFIX,maruta.be
 DOMAIN-SUFFIX,marxist.com
 DOMAIN-SUFFIX,marxist.net
 DOMAIN-SUFFIX,marxists.org
+DOMAIN-SUFFIX,mas.to
 DOMAIN-SUFFIX,mash.to
 DOMAIN-SUFFIX,mashable.com
 DOMAIN-SUFFIX,maskedip.com
@@ -31197,6 +31235,7 @@ DOMAIN-SUFFIX,mousebreaker.com
 DOMAIN-SUFFIX,movements.org
 DOMAIN-SUFFIX,moves-export.com
 DOMAIN-SUFFIX,moviefap.com
+DOMAIN-SUFFIX,mozilla.ai
 DOMAIN-SUFFIX,mozilla.org
 DOMAIN-SUFFIX,moztw.org
 DOMAIN-SUFFIX,mp3buscador.com
@@ -31351,6 +31390,7 @@ DOMAIN-SUFFIX,ndr.de
 DOMAIN-SUFFIX,ned.org
 DOMAIN-SUFFIX,nekoslovakia.net
 DOMAIN-SUFFIX,neo-miracle.com
+DOMAIN-SUFFIX,neodb.social
 DOMAIN-SUFFIX,neoforged.net
 DOMAIN-SUFFIX,neowin.net
 DOMAIN-SUFFIX,nephobox.com
