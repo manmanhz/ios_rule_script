@@ -1,13 +1,13 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-06-26 02:48:57
+# UPDATED: 2026-07-04 02:33:20
 # DOMAIN: 9
 # DOMAIN-KEYWORD: 26
-# DOMAIN-SUFFIX: 6730
+# DOMAIN-SUFFIX: 6748
 # IP-CIDR: 93
 # IP-CIDR6: 4
-# TOTAL: 6862
+# TOTAL: 6880
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -246,6 +246,7 @@ voice.telephony.goog
 .aircrack-ng.org
 .airitilibrary.com
 .airtable.com
+.airuniversity.af.edu
 .airvpn.org
 .aisex.com
 .ait.org.tw
@@ -1276,6 +1277,7 @@ voice.telephony.goog
 .crbug.com
 .crchina.org
 .crd-net.org
+.creader.com
 .creaders.net
 .creadersnet.com
 .creativelab5.com
@@ -1787,6 +1789,7 @@ voice.telephony.goog
 .experts-univers.com
 .exploader.net
 .expofutures.com
+.expressnews.com
 .expressvpn.com
 .exrates.me
 .extmatrix.com
@@ -2205,6 +2208,7 @@ voice.telephony.goog
 .gartlive.com
 .garudalinux.org
 .gate-project.com
+.gate.com
 .gate.io
 .gatecoin.com
 .gather.com
@@ -2634,6 +2638,7 @@ voice.telephony.goog
 .hklft.com
 .hklts.org.hk
 .hkmap.live
+.hkong.hk
 .hkopentv.com
 .hkpeanut.com
 .hkptu.org
@@ -3177,6 +3182,7 @@ voice.telephony.goog
 .kex.com
 .keycdn.com
 .keyhole.com
+.kfor.com
 .khabdha.org
 .khatrimaza.org
 .khmusic.com.tw
@@ -3599,6 +3605,7 @@ voice.telephony.goog
 .mgoon.com
 .mgstage.com
 .mh4u.org
+.mhwindow.org
 .michaelmarketl.com
 .microsoft-falcon.io
 .microsoft.com
@@ -4294,6 +4301,7 @@ voice.telephony.goog
 .pbxes.org
 .pcanywhere.net
 .pcdvd.com.tw
+.pcgamesn.com
 .pcgamestorrents.com
 .pchome.com.tw
 .pcij.org
@@ -4330,6 +4338,7 @@ voice.telephony.goog
 .perfectgirls.net
 .perfectvpn.net
 .periscope.tv
+.perma.cc
 .perplexity.ai
 .persecutionblog.com
 .persiankitty.com
@@ -4701,6 +4710,7 @@ voice.telephony.goog
 .renyurenquan.org
 .resilio.com
 .resistchina.org
+.restofworld.org
 .retweeteffect.com
 .retweetist.com
 .retweetrank.com
@@ -5131,6 +5141,7 @@ voice.telephony.goog
 .sowers.org.hk
 .soylent.com
 .soylentnews.org
+.spaceforce.mil
 .spacex.com
 .spankbang.com
 .spankingtube.com
@@ -5270,6 +5281,7 @@ voice.telephony.goog
 .supervpn.net
 .superzooi.com
 .suppig.net
+.supremecourt.gov
 .suprememastertv.com
 .surfeasy.com
 .surfeasy.com.au
@@ -5463,6 +5475,7 @@ voice.telephony.goog
 .thehousenews.com
 .thehun.net
 .theinitium.com
+.theintercept.com
 .themoviedb.org
 .thenewslens.com
 .thepiratebay.ee
@@ -5713,6 +5726,7 @@ voice.telephony.goog
 .trouw.nl
 .trt.net.tr
 .trtc.com.tw
+.trtworld.com
 .truebuddha-md.org
 .truenas.com
 .truesocial.media
@@ -5877,6 +5891,7 @@ voice.telephony.goog
 .twnorth.org.tw
 .twreporter.org
 .twskype.com
+.twstalker.com
 .twstar.net
 .twt.tl
 .twtkr.com
@@ -6227,6 +6242,7 @@ voice.telephony.goog
 .waselpro.com
 .washeng.net
 .washingtonpost.com
+.washingtontimes.com
 .watch8x.com
 .watchinese.com
 .watchmygf.net
@@ -6258,6 +6274,7 @@ voice.telephony.goog
 .webrush.net
 .webs-tv.net
 .websdr.org
+.webshare.io
 .website.new
 .websitepulse.com
 .websnapr.com
@@ -6530,6 +6547,7 @@ voice.telephony.goog
 .xt.pub
 .xteko.com
 .xtube.com
+.xuan.com.my
 .xuchao.net
 .xuchao.org
 .xuehua.us

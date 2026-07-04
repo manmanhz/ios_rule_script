@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-06-26 02:48:38
+# UPDATED: 2026-07-04 02:32:59
 # DOMAIN: 125
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34488
+# DOMAIN-SUFFIX: 34520
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 34766
+# TOTAL: 34798
 1password.drift.click
 adobeereg.com
 angle.com.tw
@@ -2236,6 +2236,7 @@ login.microsoftonline.com
 .applereach.com
 .applereach.net
 .apples-msk.ru
+.appleschoolcontent.com
 .applescreensavers.com
 .applescript.info
 .appleshare.info
@@ -2323,6 +2324,7 @@ login.microsoftonline.com
 .apu.ac.uk
 .apuc-scot.ac.uk
 .apyle.com
+.apzones.com
 .aqdlt.net
 .aqmen.ac.uk
 .aquinas.ac.uk
@@ -2904,6 +2906,7 @@ login.microsoftonline.com
 .awxcdn.com
 .axbdoll.com.tw
 .axept.io
+.axm-usercontent-apple.com
 .ayabank.com
 .aylesbury.ac.uk
 .ayrcoll.ac.uk
@@ -3907,6 +3910,7 @@ login.microsoftonline.com
 .blackstonespoliceservice.com
 .blacktowhite.net
 .blake.ac.uk
+.blanc.ru
 .blaoshi.cc
 .blast.io
 .blazor.net
@@ -4588,6 +4592,7 @@ login.microsoftonline.com
 .bostoncentre.ac.uk
 .boswp.com
 .botframework.com
+.botim.me
 .botmechanic.io
 .botorch.org
 .botstop.com
@@ -6298,6 +6303,7 @@ login.microsoftonline.com
 .coova.net
 .coova.org
 .copac.ac.uk
+.copilot.com
 .copim.ac.uk
 .copior.ac.uk
 .copro.pw
@@ -6724,6 +6730,7 @@ login.microsoftonline.com
 .damplips.com
 .dance-archives.ac.uk
 .dandalinvoa.com
+.dandanplay.net
 .dandanzan.cc
 .danemarket.com
 .danmarkbeatsbydrdre.com
@@ -12050,6 +12057,9 @@ login.microsoftonline.com
 .horizontal-systems.com
 .horizontalglue.com
 .horizontalsystems.com
+.hornet.com
+.hornetapp.com
+.hornetx.com
 .horniman.ac.uk
 .hornyasianmilfs.com
 .hornybitches.org
@@ -14967,6 +14977,7 @@ login.microsoftonline.com
 .listerpostgraduate.ac.uk
 .listinganalytics.net
 .litbus-anime.com
+.litecoin.org
 .literatumonline.com
 .literotica.com
 .litt.ac.uk
@@ -17521,7 +17532,9 @@ login.microsoftonline.com
 .netflixtechblog.com
 .netlab.ac.uk
 .netlify.com
+.netlifydns.com
 .netlifystatus.com
+.netlifyusercontent.com
 .netlock.hu
 .netname.com.br
 .netpornsex.com
@@ -18168,6 +18181,7 @@ login.microsoftonline.com
 .ntec.ac.uk
 .ntfs.ac.uk
 .ntidagenham.ac.uk
+.ntl.fyi
 .ntnews.com.au
 .ntp-os01.ocn.ad.jp
 .ntp-tk01.ocn.ad.jp
@@ -19305,7 +19319,6 @@ login.microsoftonline.com
 .perfecttitspics.com
 .performancescience.ac.uk
 .perl.org
-.perma.cc
 .perplexity.com
 .persagg.com
 .pershore.ac.uk
@@ -24303,6 +24316,7 @@ login.microsoftonline.com
 .trinitylaban.ac.uk
 .trinitysaintdavid.ac.uk
 .triokini.com
+.tripo3d.ai
 .tristatebmw.com
 .trithucvn.net
 .trithucvn.org
@@ -28190,6 +28204,7 @@ login.microsoftonline.com
 .aircrack-ng.org
 .airitilibrary.com
 .airtable.com
+.airuniversity.af.edu
 .airvpn.org
 .aisex.com
 .ait.org.tw
@@ -29195,6 +29210,7 @@ login.microsoftonline.com
 .crbug.com
 .crchina.org
 .crd-net.org
+.creader.com
 .creaders.net
 .creadersnet.com
 .creativelab5.com
@@ -29702,6 +29718,7 @@ login.microsoftonline.com
 .experts-univers.com
 .exploader.net
 .expofutures.com
+.expressnews.com
 .expressvpn.com
 .exrates.me
 .extmatrix.com
@@ -30116,6 +30133,7 @@ login.microsoftonline.com
 .gartlive.com
 .garudalinux.org
 .gate-project.com
+.gate.com
 .gate.io
 .gatecoin.com
 .gather.com
@@ -30543,6 +30561,7 @@ login.microsoftonline.com
 .hklft.com
 .hklts.org.hk
 .hkmap.live
+.hkong.hk
 .hkopentv.com
 .hkpeanut.com
 .hkptu.org
@@ -31083,6 +31102,7 @@ login.microsoftonline.com
 .kex.com
 .keycdn.com
 .keyhole.com
+.kfor.com
 .khabdha.org
 .khatrimaza.org
 .khmusic.com.tw
@@ -31502,6 +31522,7 @@ login.microsoftonline.com
 .mgoon.com
 .mgstage.com
 .mh4u.org
+.mhwindow.org
 .michaelmarketl.com
 .microsoft-falcon.io
 .microsoft.com
@@ -32190,6 +32211,7 @@ login.microsoftonline.com
 .pbxes.org
 .pcanywhere.net
 .pcdvd.com.tw
+.pcgamesn.com
 .pcgamestorrents.com
 .pchome.com.tw
 .pcij.org
@@ -32226,6 +32248,7 @@ login.microsoftonline.com
 .perfectgirls.net
 .perfectvpn.net
 .periscope.tv
+.perma.cc
 .perplexity.ai
 .persecutionblog.com
 .persiankitty.com
@@ -32597,6 +32620,7 @@ login.microsoftonline.com
 .renyurenquan.org
 .resilio.com
 .resistchina.org
+.restofworld.org
 .retweeteffect.com
 .retweetist.com
 .retweetrank.com
@@ -33024,6 +33048,7 @@ login.microsoftonline.com
 .sowers.org.hk
 .soylent.com
 .soylentnews.org
+.spaceforce.mil
 .spacex.com
 .spankbang.com
 .spankingtube.com
@@ -33160,6 +33185,7 @@ login.microsoftonline.com
 .supervpn.net
 .superzooi.com
 .suppig.net
+.supremecourt.gov
 .suprememastertv.com
 .surfeasy.com
 .surfeasy.com.au
@@ -33352,6 +33378,7 @@ login.microsoftonline.com
 .thehousenews.com
 .thehun.net
 .theinitium.com
+.theintercept.com
 .themoviedb.org
 .thenewslens.com
 .thepiratebay.ee
@@ -33601,6 +33628,7 @@ login.microsoftonline.com
 .trouw.nl
 .trt.net.tr
 .trtc.com.tw
+.trtworld.com
 .truebuddha-md.org
 .truenas.com
 .truesocial.media
@@ -33763,6 +33791,7 @@ login.microsoftonline.com
 .twnorth.org.tw
 .twreporter.org
 .twskype.com
+.twstalker.com
 .twstar.net
 .twt.tl
 .twtkr.com
@@ -34110,6 +34139,7 @@ login.microsoftonline.com
 .waselpro.com
 .washeng.net
 .washingtonpost.com
+.washingtontimes.com
 .watch8x.com
 .watchinese.com
 .watchmygf.net
@@ -34141,6 +34171,7 @@ login.microsoftonline.com
 .webrush.net
 .webs-tv.net
 .websdr.org
+.webshare.io
 .website.new
 .websitepulse.com
 .websnapr.com
@@ -34406,6 +34437,7 @@ login.microsoftonline.com
 .xt.pub
 .xteko.com
 .xtube.com
+.xuan.com.my
 .xuchao.net
 .xuchao.org
 .xuehua.us

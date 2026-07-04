@@ -1,15 +1,15 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-06-26 02:48:36
+# UPDATED: 2026-07-04 02:32:57
 # DOMAIN: 125
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34488
+# DOMAIN-SUFFIX: 34520
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 34812
+# TOTAL: 34844
 .000webhost.com
 .01.org
 .02weqj32.com
@@ -1412,6 +1412,7 @@
 .airtunes.com
 .airtunes.info
 .airtunes.net
+.airuniversity.af.edu
 .airvpn.org
 .airwatchexpress.com
 .airwatchqa.com
@@ -2502,6 +2503,7 @@
 .applereach.com
 .applereach.net
 .apples-msk.ru
+.appleschoolcontent.com
 .applescreensavers.com
 .applescript.info
 .appleshare.info
@@ -2595,6 +2597,7 @@
 .apu.ac.uk
 .apuc-scot.ac.uk
 .apyle.com
+.apzones.com
 .aqdlt.net
 .aqmen.ac.uk
 .aquinas.ac.uk
@@ -3267,6 +3270,7 @@
 .axbdoll.com.tw
 .axept.io
 .axios.com
+.axm-usercontent-apple.com
 .axureformac.com
 .ayabank.com
 .aylesbury.ac.uk
@@ -4458,6 +4462,7 @@
 .blacktowhite.net
 .blackvpn.com
 .blake.ac.uk
+.blanc.ru
 .blaoshi.cc
 .blast.io
 .blazor.net
@@ -5199,6 +5204,7 @@
 .bot.nu
 .botanwang.com
 .botframework.com
+.botim.me
 .botmechanic.io
 .botorch.org
 .botstop.com
@@ -7384,6 +7390,7 @@
 .coova.net
 .coova.org
 .copac.ac.uk
+.copilot.com
 .copim.ac.uk
 .copior.ac.uk
 .copro.pw
@@ -7525,6 +7532,7 @@
 .crbug.com
 .crchina.org
 .crd-net.org
+.creader.com
 .creaders.net
 .creadersnet.com
 .cream.ac.uk
@@ -7927,6 +7935,7 @@
 .damplips.com
 .dance-archives.ac.uk
 .dandalinvoa.com
+.dandanplay.net
 .dandanzan.cc
 .danemarket.com
 .danilo.to
@@ -10510,6 +10519,7 @@
 .expofutures.com
 .exporntoons.net
 .exposedlatinas.com
+.expressnews.com
 .expressvpn.com
 .expresswifi.com
 .exrates.me
@@ -12296,6 +12306,7 @@
 .gate-project.com
 .gate.ac.uk
 .gate.cc
+.gate.com
 .gate.io
 .gatecoin.com
 .gatedata.org
@@ -14405,6 +14416,7 @@
 .hklft.com
 .hklts.org.hk
 .hkmap.live
+.hkong.hk
 .hkopentv.com
 .hkpeanut.com
 .hkporn.net
@@ -14539,6 +14551,9 @@
 .horizontal-systems.com
 .horizontalglue.com
 .horizontalsystems.com
+.hornet.com
+.hornetapp.com
+.hornetx.com
 .horniman.ac.uk
 .hornyasianmilfs.com
 .hornybitches.org
@@ -17332,6 +17347,7 @@
 .keytransparency.com
 .keytransparency.foo
 .keytransparency.org
+.kfor.com
 .kfs.io
 .kgisystems.com
 .kgslb.com
@@ -18135,6 +18151,7 @@
 .listinganalytics.net
 .listorious.com
 .litbus-anime.com
+.litecoin.org
 .litenews.hk
 .literatumonline.com
 .literotica.com
@@ -19423,6 +19440,7 @@
 .mhs-relay.ac.uk
 .mhs.ac.uk
 .mhshosting.com
+.mhwindow.org
 .mi.kochudaho.me
 .mi.mashiro.site
 .mi.nakn.jp
@@ -21233,7 +21251,9 @@
 .netlab.ac.uk
 .netlify.app
 .netlify.com
+.netlifydns.com
 .netlifystatus.com
+.netlifyusercontent.com
 .netlock.hu
 .netmarble.com
 .netme.cc
@@ -22033,6 +22053,7 @@
 .ntec.ac.uk
 .ntfs.ac.uk
 .ntidagenham.ac.uk
+.ntl.fyi
 .ntnews.com.au
 .ntp-os01.ocn.ad.jp
 .ntp-tk01.ocn.ad.jp
@@ -23281,6 +23302,7 @@
 .pcdvd.com.tw
 .pcfe.ac.uk
 .pcfeonline.ac.uk
+.pcgamesn.com
 .pcgamestorrents.com
 .pchome.com.tw
 .pchomeec.tw
@@ -25360,6 +25382,7 @@
 .resourceshare.ac.uk
 .respawnbyrazer.com
 .restnproducts.ru
+.restofworld.org
 .restore.ac.uk
 .restream-media.net
 .restream.ru
@@ -27638,6 +27661,7 @@
 .sp.cool
 .spa.ac.uk
 .spaceexplored.com
+.spaceforce.mil
 .spacely.com.au
 .spacemail.com
 .spaceship.com
@@ -28361,6 +28385,7 @@
 .supr.cl
 .supremacy.com
 .supremacy.net
+.supremecourt.gov
 .suprememastertv.com
 .sureporn.com
 .surf.ac.uk
@@ -29128,6 +29153,7 @@
 .theinitium.com
 .theinstagramhack.com
 .theintelstore.com
+.theintercept.com
 .theinternetlawschool.ac.uk
 .theinventionworks.com
 .theinventionworks.net
@@ -29810,6 +29836,7 @@
 .trinitylaban.ac.uk
 .trinitysaintdavid.ac.uk
 .triokini.com
+.tripo3d.ai
 .tristatebmw.com
 .trithucvn.net
 .trithucvn.org
@@ -29825,6 +29852,7 @@
 .trs.ac.uk
 .trt.net.tr
 .trtc.com.tw
+.trtworld.com
 .trueamateurmodels.com
 .trueamateurs.com
 .trueanal.com
@@ -30211,6 +30239,7 @@
 .twporn.net
 .twreporter.org
 .twskype.com
+.twstalker.com
 .twstar.net
 .twt.tl
 .twtkr.com
@@ -32018,6 +32047,7 @@
 .washeng.net
 .washingtondcbmw.com
 .washingtonpost.com
+.washingtontimes.com
 .waskucity.com
 .wasmer.io
 .watch-ebay.org
@@ -32168,6 +32198,7 @@
 .webrush.net
 .webs-tv.net
 .websdr.org
+.webshare.io
 .website.new
 .websitepulse.com
 .websnapr.com
@@ -33294,6 +33325,7 @@
 .xtubebdsm.com
 .xtubezoo.com
 .xu97.vip
+.xuan.com.my
 .xuchao.net
 .xuchao.org
 .xuehua.us
