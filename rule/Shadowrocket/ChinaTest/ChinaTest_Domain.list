@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-07-04 02:33:46
+# UPDATED: 2026-07-10 03:30:07
 # DOMAIN: 114
 # DOMAIN-KEYWORD: 9
-# DOMAIN-SUFFIX: 111983
+# DOMAIN-SUFFIX: 111991
 # IP-CIDR: 15
 # USER-AGENT: 31
-# TOTAL: 112152
+# TOTAL: 112160
 .0.zone
 .00.net
 .000.link
@@ -32561,7 +32561,6 @@
 .embryochina.com
 .embsky.com
 .emby.men
-.emby.yun
 .embyvip.org
 .emcbj.com
 .emcdir.com
@@ -91306,6 +91305,7 @@
 .twty.vip
 .twwtn.com
 .twyuxin.com
+.twyxh.com
 .twyxi.com
 .twzilla.com
 .twzui6.com
@@ -111543,6 +111543,7 @@
 .zwzyzx.com
 .zx-tour.com
 .zx-xcx.com
+.zx.com
 .zx0093.com
 .zx017.com
 .zx017.net

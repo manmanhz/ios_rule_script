@@ -1,13 +1,13 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-07-04 02:32:59
-# DOMAIN: 125
+# UPDATED: 2026-07-10 03:29:23
+# DOMAIN: 124
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34520
+# DOMAIN-SUFFIX: 34532
 # IP-CIDR: 116
 # USER-AGENT: 46
-# TOTAL: 34843
+# TOTAL: 34854
 .000webhost.com
 .01.org
 .02weqj32.com
@@ -2280,6 +2280,7 @@
 .apple-pay.wang
 .apple-store.net
 .apple-store.wang
+.apple-studies.com
 .apple-usa.net
 .apple.ae
 .apple.at
@@ -2879,6 +2880,7 @@
 .atlassian-dev.net
 .atlassian.com
 .atlassian.net
+.atmeta.com
 .atnext.com
 .atokara.jp
 .atom.io
@@ -3291,6 +3293,7 @@
 .azirevpn.com
 .aznude.com
 .azubu.tv
+.azure-api.net
 .azure-devices-int.net
 .azure-devices.net
 .azure-dns.com
@@ -3328,6 +3331,7 @@
 .azureserviceprofiler.com
 .azuresmartspaces.net
 .azurestackvalidation.com
+.azurestaticapps.net
 .azurewebsites.net
 .b-cdn.net
 .b-eroland.net
@@ -11471,6 +11475,8 @@
 .flowgpt.com
 .flowhongkong.net
 .flowtype.org
+.flowwow-images.com
+.flowwow.com
 .fluffychat.im
 .fluidfxapp.com
 .fluidpreview.com
@@ -12087,6 +12093,8 @@
 .funnyfacebook.org
 .funnyordie.com
 .funp.com
+.funpay.com
+.funpay.ru
 .funshemale.com
 .fuq.com
 .fuqqt.com
@@ -23116,6 +23124,8 @@
 .paulmelloncentre.ac.uk
 .paulsimon-music.com
 .pavpal.com
+.pawchive.pw
+.pawchive.st
 .pawoo.net
 .paxful.com
 .paxlicense.org
@@ -26707,6 +26717,7 @@
 .sfsstudents.ac.uk
 .sftindia.org
 .sftuk.org
+.sfunpay.com
 .sfx.ac.uk
 .sfx.ms
 .sfxc.ac.uk
@@ -29478,6 +29489,7 @@
 .tilda.ws
 .tildaapi.com
 .tildacdn.com
+.tildacdn.net
 .tilehill.ac.uk
 .tiltbrush.com
 .timdir.com
@@ -34577,7 +34589,6 @@ hpstore.corpmerchandise.com
 hub.slarker.me
 i.jeded.com
 imperial.insendi.com
-ingest.apple-studies.com
 lgelectronics.122.2o7.net
 linkedin.sc.omtrdc.net
 live-patreon-marketing.pantheonsite.io

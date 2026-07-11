@@ -1,13 +1,13 @@
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-07-04 02:35:05
+# UPDATED: 2026-07-10 03:31:27
 # DOMAIN: 288
 # DOMAIN-KEYWORD: 13
-# DOMAIN-SUFFIX: 111757
+# DOMAIN-SUFFIX: 111764
 # PROCESS-NAME: 12
 # USER-AGENT: 65
-# TOTAL: 112135
+# TOTAL: 112142
 .0.zone
 .00.net
 .000.link
@@ -32184,7 +32184,6 @@
 .embryochina.com
 .embsky.com
 .emby.men
-.emby.yun
 .embyvip.org
 .emcbj.com
 .emcdir.com
@@ -91122,6 +91121,7 @@
 .twty.vip
 .twwtn.com
 .twyuxin.com
+.twyxh.com
 .twyxi.com
 .twz1t32lzy.com
 .twzilla.com
@@ -111317,6 +111317,7 @@
 .zwzyzx.com
 .zx-tour.com
 .zx-xcx.com
+.zx.com
 .zx0093.com
 .zx017.com
 .zx017.net
