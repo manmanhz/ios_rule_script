@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-07-10 03:29:22
-# DOMAIN: 124
+# UPDATED: 2026-07-18 02:59:35
+# DOMAIN: 128
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34532
+# DOMAIN-SUFFIX: 34567
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # USER-AGENT: 46
-# TOTAL: 34854
+# TOTAL: 34893
 .000webhost.com
 .01.org
 .02weqj32.com
@@ -1564,7 +1564,6 @@
 .alexanderstreet.com
 .alexlur.org
 .alfa.me
-.alfabank.oavdo.amc
 .alfabank.ru
 .alfabank.st
 .alfadirect.ru
@@ -3323,6 +3322,7 @@
 .azuredns-prd.org
 .azureedge-test.net
 .azureedge.net
+.azureedge.us
 .azurefd.net
 .azureiotcentral.com
 .azureiotsolutions.com
@@ -4058,6 +4058,9 @@
 .bestbuytradein.com
 .bestbuyus.com
 .bestcamsites.net
+.bestchange.com
+.bestchange.net
+.bestchange.ru
 .bestclouddrive.com
 .bestdori.com
 .besterpornos.com
@@ -5084,6 +5087,7 @@
 .bnrmetal.com
 .bntrace.com
 .bnu.ac.uk
+.bnxz.net
 .boa.ac.uk
 .boardreader.com
 .bobble.ac.uk
@@ -5743,6 +5747,7 @@
 .bypasscensorship.org
 .byrut.org
 .byspotify.com
+.bystys.tech
 .byteoversea.com
 .bytick.com
 .byzantine-ahrb-centre.ac.uk
@@ -6491,6 +6496,7 @@
 .chatango.com
 .chatgpt.com
 .chatgpt.livekit.cloud
+.chatgpt.site
 .chatgptvideo.xyz
 .chatgptvideob.buzz
 .chatnook.com
@@ -7393,6 +7399,7 @@
 .coova.net
 .coova.org
 .copac.ac.uk
+.copilot-stg.com
 .copilot.com
 .copim.ac.uk
 .copior.ac.uk
@@ -7589,6 +7596,7 @@
 .crmdynint-gcc.com
 .crmdynint.com
 .crocels.ac.uk
+.crocoblock.com
 .crocotube.com
 .cromite.org
 .cronton.ac.uk
@@ -8149,6 +8157,7 @@
 .delcamtv.com
 .delcamuniversity.com
 .delcamusa.com
+.delets.online
 .delicious.com
 .delicious.com.au
 .dell.ac
@@ -12568,6 +12577,7 @@
 .getpricetag.com
 .getprintersupports.com
 .getscorecash.com
+.getsentry.com
 .getsession.org
 .getsexgames.com
 .getsocialscope.com
@@ -13713,6 +13723,8 @@
 .hao62.xyz
 .haori888.com
 .haplorrhini.com
+.happ.info
+.happ.su
 .happy-vpn.com
 .happymeal.co.nz
 .happymeal.com
@@ -17368,6 +17380,7 @@
 .kiad.ac.uk
 .kichiku-doujinko.com
 .kichikuou.com
+.kick.com
 .kickporn.com
 .kickshatchannel.com
 .kicksnike1.com
@@ -18052,7 +18065,12 @@
 .lihe.ac.uk
 .lihkg.com
 .lihksnap.com
+.like-video.com
 .like.com
+.likee.com
+.likeeapp.ru
+.likeevideo.com
+.likeevideo.ru
 .likeseiyu.com
 .liketruyen.net
 .liketwice.com
@@ -18755,6 +18773,7 @@
 .makearmanotwar.com
 .makebettercode.com
 .makecode.org
+.makeeu.com
 .makeitopen.com
 .makeitrealcontest.com
 .makemymood.com
@@ -19439,6 +19458,7 @@
 .mhcb.ru
 .mhcbr.ru
 .mhdss.ac.uk
+.mhgui.com
 .mhhanman.xyz
 .mhie.ac.uk
 .mhqwe.xyz
@@ -19996,6 +20016,7 @@
 .mistresskym.com
 .mit.edu
 .mit.net
+.mitao.bar
 .mitao.com.tw
 .mitbbs.com
 .mitbbsau.com
@@ -20318,6 +20339,7 @@
 .motionpictureser.com
 .motiyun.com
 .moto.com
+.motocms.com
 .motolia.com
 .motopress.com
 .motor4ik.ru
@@ -21280,6 +21302,7 @@
 .network54.com
 .networkedblogs.com
 .networktunnel.net
+.netxh.blog
 .netzerobuildings.com
 .netzerobuildingstudio.com
 .netzwerkdeutsch.ac.uk
@@ -22577,6 +22600,7 @@
 .onekey.so
 .onekeycn.com
 .oneme.ru
+.onemoment.cc
 .onemozilla.org
 .onenote.com
 .onepornlist.com
@@ -22892,6 +22916,7 @@
 .owl.li
 .owltail.com
 .owsc.ac.uk
+.owxd.xyz
 .ox.ac.uk
 .oxademy.ac.uk
 .oxahsc.ac.uk
@@ -23132,6 +23157,7 @@
 .paxlicense.org
 .paydiant.com
 .payecom.ru
+.payget.pro
 .paygonline.com
 .payhulu.com
 .paylike.com
@@ -23739,6 +23765,7 @@
 .plastics-cadcam.com
 .platiecom.ru
 .platinumlinks.org
+.platov.co
 .play-asia.com
 .play-bmm.shop
 .play-bmmer.buzz
@@ -24977,6 +25004,8 @@
 .rakuya.com.tw
 .ram.ac.uk
 .ramcity.com.au
+.ramon.cash
+.ramon.money
 .randd.ac.uk
 .randomsystems-cdt.ac.uk
 .randyblue.com
@@ -26456,6 +26485,7 @@
 .sensualmothers.com
 .sensueel.net
 .sentry-cdn.com
+.sentry.dev
 .senzuritv.net
 .seo-dash.net
 .seodirector.ai
@@ -28014,6 +28044,7 @@
 .stargazer-games.com
 .stark-verlag.ch
 .starlink.ac.uk
+.starlink.com
 .starott.com
 .starp2p.com
 .starplus.com
@@ -28951,6 +28982,7 @@
 .temenos.ac.uk
 .temetube.xyz
 .temp-mail.org
+.templatemonster.com
 .tempusuk.ac.uk
 .temu.com
 .tenacy.com
@@ -30860,6 +30892,7 @@
 .uxbridgecollege.ac.uk
 .uxthemes.com
 .uxxxporn.com
+.uxzw.club
 .uyghur-j.org
 .uyghur.co.uk
 .uyghuraa.org
@@ -32108,6 +32141,7 @@
 .wbautomation.ru
 .wbautomation.tech
 .wbbasket.ru
+.wbcontent.net
 .wbd.ms
 .wbdnbo.net
 .wbdubna.ru
@@ -34245,6 +34279,7 @@
 .ytimg.com
 .ytn.co.kr
 .yuanzhengtang.org
+.yucf.top
 .yuenuge113.xyz
 .yuenuge18.cc
 .yugioh-card.com
@@ -34542,6 +34577,7 @@
 .zzycdz.com
 1password.drift.click
 adobeereg.com
+agb9r0ad.qllfkl.com
 angle.com.tw
 api-p.videomarket.jp
 api.waqi.info
@@ -34585,6 +34621,7 @@ firstsearch.oclc.org
 github-api.arkoselabs.com
 gog-cdn-lumen.secure2.footprint.net
 gog.qtlglb.com
+hb4bbbbb.pmhcjk.com
 holoxx.f5.si
 hpstore.corpmerchandise.com
 hub.slarker.me
@@ -34597,6 +34634,7 @@ login.microsoftonline.com
 medone-education.thieme.com
 muse.jhu.edu
 nationalaustraliaban.tt.omtrdc.net
+nbbb1bb7.pmhcjk.com
 ntp-c.colorado.edu
 ntp.time.nl
 ntp0.ntp-servers.net
@@ -34619,6 +34657,7 @@ practivate.adobe.newoa
 practivate.adobe.ntp
 public-us-pingsx.api.clonoth.com
 push-apple.com.akadns.net
+q676790b.pmhcjk.com
 qualcomm.sc.omtrdc.net
 roovza-launches.appsflyersdk.com
 roovza.inapps.appsflyersdk.com
