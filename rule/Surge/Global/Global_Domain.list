@@ -1,15 +1,15 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-08-14 02:55:25
+# UPDATED: 2026-08-22 02:30:00
 # DOMAIN: 128
 # DOMAIN-KEYWORD: 36
-# DOMAIN-SUFFIX: 34719
+# DOMAIN-SUFFIX: 34734
 # IP-CIDR: 112
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # USER-AGENT: 46
-# TOTAL: 35046
+# TOTAL: 35061
 .000webhost.com
 .01.org
 .02weqj32.com
@@ -496,6 +496,7 @@
 .5aimiku.com
 .5axis-machining.com
 .5beatsbydre.com
+.5ch.io
 .5ch.net
 .5fang.cc
 .5i01.com
@@ -1917,6 +1918,7 @@
 .amazonvideo.cc
 .amazonvideo.com
 .amazonvideodirect.com
+.amazonwebservices.com
 .amazonworkdocs.com
 .ambs.ac.uk
 .amc.com
@@ -9132,6 +9134,7 @@
 .dreamamateurs.com
 .dreambmw.ca
 .dreamforce.com
+.dreamgen.com
 .dreammovies.com
 .dreamorder.com
 .dreamteamfc.com
@@ -11021,6 +11024,7 @@
 .fans17.com
 .fans66.tw
 .fansking.tw
+.fansly.com
 .fansnudes.com
 .fansone.co
 .fanspot.jp
@@ -21663,6 +21667,8 @@
 .nicis.ac.uk
 .nickscipio.com
 .nicky.xxx
+.nico.ms
+.nicochannel.jp
 .nicodic.jp
 .nicolepeters.com
 .nicomanga.jp
@@ -21995,6 +22001,7 @@
 .noodlevpn.com
 .noosferabank.ru
 .norbulingka.org
+.nordcdn.com
 .nordstrom.com
 .nordstromimage.com
 .nordstrommedia.com
@@ -22040,6 +22047,7 @@
 .norton.com
 .norwichresearchpark.ac.uk
 .nos.nl
+.notegpt.io
 .notepad-plus-plus.org
 .noticias-rt.com
 .notimundo.press
@@ -22067,6 +22075,7 @@
 .nottm-coll.ac.uk
 .nottsmaternity.ac.uk
 .novafile.com
+.novelai.net
 .novelasia.com
 .novella.ac.uk
 .noveltrove.com
@@ -22624,6 +22633,7 @@
 .oldham.ac.uk
 .oldhornymilfs.com
 .oldje.com
+.oldmapsonline.org
 .oldroyd.ac.uk
 .olds.ac.uk
 .oldvic.ac.uk
@@ -25854,6 +25864,7 @@
 .rse.ac.uk
 .rsf-chinese.org
 .rsf.org
+.rsg.ms
 .rsg.sc
 .rsgamen.org
 .rshb.ru
@@ -26010,6 +26021,7 @@
 .rutracker.net
 .rutracker.nl
 .rutracker.org
+.rutracker.wiki
 .rutrecker.net
 .rutube.ru
 .rutube.sport
@@ -26286,6 +26298,8 @@
 .sbux.com.my
 .sbuxcard.com
 .sc-cdn.net
+.sc-gw.com
+.sc-static.net
 .sc-toolkit.ac.uk
 .sc.com
 .sc1.ac.uk
@@ -28864,6 +28878,7 @@
 .talentlens.com
 .taleofthenight.com
 .talk853.com
+.talkai.info
 .talkatone.com
 .talkboxapp.com
 .talkcc.com
